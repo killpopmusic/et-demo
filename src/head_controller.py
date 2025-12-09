@@ -20,7 +20,6 @@ class HeadController:
         nose_x = int(landmarks[1].x * image_width)
 
         middle_x = image_width // 2
-        # Target position for eyes is at 1/3 of the screen height
         target_y = int(image_height * 1 / 3)
 
         threshold_x = image_width * self.width_threshold

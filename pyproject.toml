@@ -8,10 +8,12 @@ readme = "README.md"
 
 
 [tool.poetry.dependencies]
-python = ">=3.12,<4.0.0"
+python = ">=3.12,<3.14"
 opencv-python = ">=4.10.0.84"
 mediapipe = ">=0.10.20"
-
+screeninfo = "^0.8.1"
+scikit-learn = "^1.7.2"
+torch = "==2.8.0"
 
 [build-system]
 requires = ["poetry-core"]
