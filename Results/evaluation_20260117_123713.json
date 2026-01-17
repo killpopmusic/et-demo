@@ -1,0 +1,235 @@
+{
+    "summary": {
+        "total_samples": 45,
+        "accuracy_percent": 62.22,
+        "duration_seconds": 9.45,
+        "start_time": "2026-01-17T12:37:04.034639"
+    },
+    "raw_data": [
+        {
+            "timestamp": 1768649824.0346394,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649824.2347162,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649824.4385393,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649824.6389358,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649824.8389802,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649825.038916,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649825.2429404,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649825.4425523,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649825.642576,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649825.846911,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649826.046601,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649826.246637,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649826.4467716,
+            "target": 0,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649826.6506288,
+            "target": 0,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649826.8506904,
+            "target": 0,
+            "prediction": 1
+        },
+        {
+            "timestamp": 1768649827.050615,
+            "target": 0,
+            "prediction": 1
+        },
+        {
+            "timestamp": 1768649827.2546308,
+            "target": 0,
+            "prediction": 0
+        },
+        {
+            "timestamp": 1768649827.4545882,
+            "target": 1,
+            "prediction": 1
+        },
+        {
+            "timestamp": 1768649827.6544898,
+            "target": 1,
+            "prediction": 0
+        },
+        {
+            "timestamp": 1768649827.8544855,
+            "target": 1,
+            "prediction": 1
+        },
+        {
+            "timestamp": 1768649828.0586202,
+            "target": 1,
+            "prediction": 1
+        },
+        {
+            "timestamp": 1768649828.258519,
+            "target": 1,
+            "prediction": 1
+        },
+        {
+            "timestamp": 1768649828.4589424,
+            "target": 1,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649828.6629195,
+            "target": 1,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649828.8625748,
+            "target": 1,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649829.0628154,
+            "target": 1,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649829.2626877,
+            "target": 1,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649829.466592,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649829.6665494,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649829.866601,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649830.0706818,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649830.2706876,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649830.471141,
+            "target": 1,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649830.6708207,
+            "target": 1,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649830.8750207,
+            "target": 1,
+            "prediction": 1
+        },
+        {
+            "timestamp": 1768649831.0745487,
+            "target": 1,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649831.2749891,
+            "target": 1,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649831.4785182,
+            "target": 0,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649831.6785977,
+            "target": 0,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649832.482725,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649832.6830482,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649832.8866408,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649833.0867224,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649833.286616,
+            "target": 2,
+            "prediction": 2
+        },
+        {
+            "timestamp": 1768649833.4868674,
+            "target": 1,
+            "prediction": 2
+        }
+    ]
+}
