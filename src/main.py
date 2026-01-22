@@ -97,14 +97,17 @@ def main():
         evaluation_started = False
         evaluation_data = []
 
+
         target_column = None
         last_target_change_time = 0
+
         
         while cap.isOpened():
             success, image = cap.read()
             if not success:
                 print("Ignoring empty camera frame.")
                 continue
+
 
             current_time = time.time()
             if current_time - last_target_change_time > 1.0:
@@ -159,7 +162,7 @@ def main():
             if is_stable:
                 # highlight the prediction 
                 display_frame = ui.create_frame(image, highlight_column=predicted_column, target_column=target_column)
-
+                display_frame = cv2.resize(display_frame, (screen_width, screen_height))
             else:
                 if results.multi_face_landmarks:
                     image = detector.draw_landmarks(image, results)
@@ -188,6 +191,7 @@ def main():
             
             duration = evaluation_data[-1]['timestamp'] - evaluation_data[0]['timestamp'] if evaluation_data else 0
 
+
             output = {
                 "summary": {
                     "total_samples": total_samples,
@@ -212,6 +216,7 @@ def main():
         dwell_time = 0.0
         last_frame_time = time.time()
         cooldown = 0.0
+
         
         while cap.isOpened():
             success, image = cap.read()

@@ -1,7 +1,7 @@
 import math
 
 class DistanceEstimator:
-    def __init__(self, focal_length=1300, real_face_width=14.0):
+    def __init__(self, focal_length=900, real_face_width=14.0):
         self.focal_length = focal_length
         self.real_face_width = real_face_width
 
