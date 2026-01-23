@@ -96,6 +96,7 @@ def main():
         start_time = time.time()
         evaluation_started = False
         evaluation_data = []
+        performance_data = []
 
 
         target_column = None
@@ -108,22 +109,32 @@ def main():
                 print("Ignoring empty camera frame.")
                 continue
 
+            # Start Latency Measurement
+            t_frame_start = time.perf_counter()
 
             current_time = time.time()
             if current_time - last_target_change_time > 1.0:
                 target_column = random.randint(0, 2)
                 last_target_change_time = current_time
 
+            # Measure Detection
+            t0 = time.perf_counter()
             results = detector.process(image)
+            t_detection = time.perf_counter() - t0
 
             is_stable = False
             predicted_column = None
 
             horizontal_ok, vertical_ok, distance_ok = False, False, False
             distance = 0
+            
+            t_validation = 0
+            t_prediction = 0
 
             if results.multi_face_landmarks:
                 for face_landmarks in results.multi_face_landmarks:
+                    # Measure Validation
+                    t0 = time.perf_counter()
                     pixel_face_width = estimator.calculate_pixel_distance(
                         face_landmarks.landmark[33],
                         face_landmarks.landmark[263],
@@ -138,11 +149,15 @@ def main():
                     )
 
                     distance_ok, distance = head_controller.is_distance_valid(pixel_face_width)
+                    t_validation = time.perf_counter() - t0
                     
                     if horizontal_ok and vertical_ok and distance_ok:
                         is_stable = True
                         # Predict Gaze
+                        # Measure Prediction
+                        t0 = time.perf_counter()
                         predicted_column = predictor.predict(face_landmarks)
+                        t_prediction = time.perf_counter() - t0
 
                         # Evaluation logic
                         if not evaluation_started:
@@ -159,6 +174,8 @@ def main():
                                     "prediction": int(predicted_column)
                                 })
 
+            # Measure UI
+            t0 = time.perf_counter()
             if is_stable:
                 # highlight the prediction 
                 display_frame = ui.create_frame(image, highlight_column=predicted_column, target_column=target_column)
@@ -174,38 +191,68 @@ def main():
                 display_frame = cv2.resize(image, (screen_width, screen_height))
 
             cv2.imshow(window_name, display_frame)
+            t_ui = time.perf_counter() - t0
+            
+            # End Latency Measurement
+            t_total_latency = time.perf_counter() - t_frame_start
+            
+            performance_data.append({
+                "timestamp": current_time,
+                "detection_ms": t_detection * 1000,
+                "validation_ms": t_validation * 1000,
+                "prediction_ms": t_prediction * 1000,
+                "ui_ms": t_ui * 1000,
+                "latency_ms": t_total_latency * 1000
+            })
             
             if cv2.waitKey(5) & 0xFF == 27: 
                 break
 
-        if evaluation_data:
+        if evaluation_data or performance_data:
             results_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Results")
             os.makedirs(results_dir, exist_ok=True)
             
             timestamp_str = datetime.now().strftime("%Y%m%d_%H%M%S")
-            filename = os.path.join(results_dir, f"evaluation_{timestamp_str}.json")
+            filename = os.path.join(results_dir, f"experiment_{timestamp_str}.json")
             
-            total_samples = len(evaluation_data)
-            correct_predictions = sum(1 for d in evaluation_data if d['target'] == d['prediction'])
-            accuracy = (correct_predictions / total_samples) * 100 if total_samples > 0 else 0
-            
-            duration = evaluation_data[-1]['timestamp'] - evaluation_data[0]['timestamp'] if evaluation_data else 0
+            output = {}
 
+            if evaluation_data:
+                total_samples = len(evaluation_data)
+                correct_predictions = sum(1 for d in evaluation_data if d['target'] == d['prediction'])
+                accuracy = (correct_predictions / total_samples) * 100 if total_samples > 0 else 0
+                duration = evaluation_data[-1]['timestamp'] - evaluation_data[0]['timestamp'] if evaluation_data else 0
 
-            output = {
-                "summary": {
-                    "total_samples": total_samples,
-                    "accuracy_percent": round(accuracy, 2),
-                    "duration_seconds": round(duration, 2),
-                    "start_time": datetime.fromtimestamp(evaluation_data[0]['timestamp']).isoformat()
-                },
-                "raw_data": evaluation_data
-            }
+                output["evaluation"] = {
+                    "summary": {
+                        "total_samples": total_samples,
+                        "accuracy_percent": round(accuracy, 2),
+                        "duration_seconds": round(duration, 2),
+                        "start_time": datetime.fromtimestamp(evaluation_data[0]['timestamp']).isoformat()
+                    },
+                    "raw_data": evaluation_data
+                }
+
+            if performance_data:
+                keys = ["detection_ms", "validation_ms", "prediction_ms", "ui_ms", "latency_ms"]
+                stats = {}
+                for k in keys:
+                    values = [d[k] for d in performance_data if d[k] > 0]
+                    if values:
+                        stats[k] = {
+                            "min": min(values),
+                            "max": max(values),
+                            "avg": sum(values) / len(values)
+                        }
+                output["efficiency"] = {
+                    "summary": stats,
+                    "raw_data": performance_data
+                }
             
             try:
                 with open(filename, 'w') as f:
                     json.dump(output, f, indent=4)
-                print(f"Evaluation results saved to {filename}")
+                print(f"Experiment results saved to {filename}")
             except Exception as e:
                 print(f"Failed to save results: {e}")
 
