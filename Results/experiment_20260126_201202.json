@@ -1,0 +1,3536 @@
+{
+    "evaluation": {
+        "summary": {
+            "total_samples": 81,
+            "accuracy_percent": 62.96,
+            "duration_seconds": 46.66,
+            "start_time": "2026-01-26T20:11:15.499502"
+        },
+        "raw_data": [
+            {
+                "timestamp": 1769454675.4995024,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454675.6959863,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454676.498953,
+                "target": 0,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454676.7073243,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454677.508139,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454677.710981,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454678.5158625,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454678.7123125,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454679.5191045,
+                "target": 1,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454679.7237506,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454680.5245693,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454680.72324,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454681.5321581,
+                "target": 0,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454681.7326815,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454681.931936,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454690.1768131,
+                "target": 1,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454690.9796262,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454691.1881878,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454691.988872,
+                "target": 2,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454692.1876986,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454693.1970363,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454693.9998274,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454694.204537,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454695.0052118,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454695.2039633,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454696.0128756,
+                "target": 0,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454696.2133112,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454696.4121158,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454697.2209594,
+                "target": 2,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454697.4175544,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454698.2203789,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454698.4291,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454699.229747,
+                "target": 0,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454699.4284782,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454700.2375095,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454700.4376898,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454701.2406108,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454701.4455748,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454702.2460601,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454702.4449248,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454703.2535176,
+                "target": 0,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454703.4541702,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454703.6529236,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454704.461641,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454704.65834,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454705.4651859,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454705.6697123,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454706.4704118,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454706.6693256,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454707.478091,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454707.678552,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454708.4814746,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454708.686227,
+                "target": 0,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454709.4868147,
+                "target": 2,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454709.6856136,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454710.5008683,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454710.6999595,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454710.8937826,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454711.7024994,
+                "target": 1,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454711.8992493,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454712.7061157,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454712.9104784,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454713.7112405,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454713.9101279,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454714.718793,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454714.9193094,
+                "target": 1,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454715.1181622,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454715.9268694,
+                "target": 2,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454716.1235173,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454716.9263773,
+                "target": 1,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454717.1351345,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454717.935698,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454718.1345036,
+                "target": 2,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454718.9432447,
+                "target": 0,
+                "prediction": 2
+            },
+            {
+                "timestamp": 1769454719.1400716,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454719.9466746,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454720.1512604,
+                "target": 0,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454720.9519665,
+                "target": 1,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454721.1508367,
+                "target": 1,
+                "prediction": 1
+            },
+            {
+                "timestamp": 1769454721.9596405,
+                "target": 2,
+                "prediction": 0
+            },
+            {
+                "timestamp": 1769454722.160611,
+                "target": 2,
+                "prediction": 0
+            }
+        ]
+    },
+    "efficiency": {
+        "summary": {
+            "detection_ms": {
+                "min": 29.811747999701765,
+                "max": 68.01186799930292,
+                "avg": 36.02988733675158
+            },
+            "validation_ms": {
+                "min": 0.0559799991606269,
+                "max": 0.3871160006383434,
+                "avg": 0.07040438540665643
+            },
+            "prediction_ms": {
+                "min": 4.871913000897621,
+                "max": 165.87010200055374,
+                "avg": 8.866921990283732
+            },
+            "ui_ms": {
+                "min": 7.356461001108983,
+                "max": 69.67695700041077,
+                "avg": 31.692228860062826
+            },
+            "latency_ms": {
+                "min": 44.794044999434846,
+                "max": 247.3435640004027,
+                "avg": 74.91707093780992
+            }
+        },
+        "raw_data": [
+            {
+                "timestamp": 1769454644.771635,
+                "detection_ms": 54.218995001065196,
+                "validation_ms": 0.1001820000965381,
+                "prediction_ms": 0,
+                "ui_ms": 49.695706000420614,
+                "latency_ms": 104.07510299955902
+            },
+            {
+                "timestamp": 1769454644.9276912,
+                "detection_ms": 37.17812099966977,
+                "validation_ms": 0.06705299892928451,
+                "prediction_ms": 0,
+                "ui_ms": 41.816146000201115,
+                "latency_ms": 79.07948700085399
+            },
+            {
+                "timestamp": 1769454645.1239748,
+                "detection_ms": 41.17259600025136,
+                "validation_ms": 0.09284899897465948,
+                "prediction_ms": 165.87010200055374,
+                "ui_ms": 40.17614800068259,
+                "latency_ms": 247.3435640004027
+            },
+            {
+                "timestamp": 1769454645.3891785,
+                "detection_ms": 32.6362430005247,
+                "validation_ms": 0.06370099981722888,
+                "prediction_ms": 12.521345001005102,
+                "ui_ms": 26.553990001048078,
+                "latency_ms": 71.79640799949993
+            },
+            {
+                "timestamp": 1769454645.5316188,
+                "detection_ms": 36.22678499959875,
+                "validation_ms": 0.06623899935220834,
+                "prediction_ms": 14.276062000135425,
+                "ui_ms": 25.421714000913198,
+                "latency_ms": 76.01100300053076
+            },
+            {
+                "timestamp": 1769454645.728413,
+                "detection_ms": 39.76962600063416,
+                "validation_ms": 0.16975399921648204,
+                "prediction_ms": 7.030849999864586,
+                "ui_ms": 27.3014089998469,
+                "latency_ms": 74.29176599907805
+            },
+            {
+                "timestamp": 1769454645.9268844,
+                "detection_ms": 31.748124998557614,
+                "validation_ms": 0.06603500150959007,
+                "prediction_ms": 8.5974260000512,
+                "ui_ms": 27.329999998983112,
+                "latency_ms": 67.7854909990856
+            },
+            {
+                "timestamp": 1769454646.1271224,
+                "detection_ms": 30.334637998748804,
+                "validation_ms": 0.07290500070666894,
+                "prediction_ms": 5.2108939999016,
+                "ui_ms": 26.94479300043895,
+                "latency_ms": 62.58484000136377
+            },
+            {
+                "timestamp": 1769454646.3313675,
+                "detection_ms": 32.289218999721925,
+                "validation_ms": 0.061886999901616946,
+                "prediction_ms": 5.731080000259681,
+                "ui_ms": 27.579343999605044,
+                "latency_ms": 65.67980699946929
+            },
+            {
+                "timestamp": 1769454646.5308642,
+                "detection_ms": 31.14801800074929,
+                "validation_ms": 0.06664600005024113,
+                "prediction_ms": 5.370351998863043,
+                "ui_ms": 27.276558999801637,
+                "latency_ms": 63.882943000862724
+            },
+            {
+                "timestamp": 1769454646.7313526,
+                "detection_ms": 31.602594999640132,
+                "validation_ms": 0.059404999774415046,
+                "prediction_ms": 5.163174000699655,
+                "ui_ms": 27.158859000337543,
+                "latency_ms": 64.0030319991638
+            },
+            {
+                "timestamp": 1769454646.931083,
+                "detection_ms": 32.23040599914384,
+                "validation_ms": 0.06264600051508751,
+                "prediction_ms": 8.05448100072681,
+                "ui_ms": 27.233281998633174,
+                "latency_ms": 67.62412899843184
+            },
+            {
+                "timestamp": 1769454647.1350317,
+                "detection_ms": 31.879309000942158,
+                "validation_ms": 0.05886899998586159,
+                "prediction_ms": 15.854434999710065,
+                "ui_ms": 26.938663999317214,
+                "latency_ms": 74.75007099856157
+            },
+            {
+                "timestamp": 1769454647.334886,
+                "detection_ms": 30.533207000189577,
+                "validation_ms": 0.05936900015512947,
+                "prediction_ms": 9.77144100033911,
+                "ui_ms": 26.749781000035,
+                "latency_ms": 67.13240799945197
+            },
+            {
+                "timestamp": 1769454647.5350902,
+                "detection_ms": 30.722310999408364,
+                "validation_ms": 0.059535001128097065,
+                "prediction_ms": 5.5739740000717575,
+                "ui_ms": 26.641933000064455,
+                "latency_ms": 63.01623600120365
+            },
+            {
+                "timestamp": 1769454647.7389581,
+                "detection_ms": 30.545558000085293,
+                "validation_ms": 0.06020199907652568,
+                "prediction_ms": 5.463810999572161,
+                "ui_ms": 25.471214999924996,
+                "latency_ms": 61.561340999105596
+            },
+            {
+                "timestamp": 1769454647.9390724,
+                "detection_ms": 31.762238000737852,
+                "validation_ms": 0.0586280002607964,
+                "prediction_ms": 8.351083000889048,
+                "ui_ms": 25.728964999871096,
+                "latency_ms": 65.9434120007063
+            },
+            {
+                "timestamp": 1769454648.139072,
+                "detection_ms": 31.469935000131954,
+                "validation_ms": 0.06223899981705472,
+                "prediction_ms": 5.156340999747044,
+                "ui_ms": 26.023566999356262,
+                "latency_ms": 62.73258100009116
+            },
+            {
+                "timestamp": 1769454648.3389852,
+                "detection_ms": 31.788738999239285,
+                "validation_ms": 0.061923001339891925,
+                "prediction_ms": 7.47248299921921,
+                "ui_ms": 25.680134000140242,
+                "latency_ms": 65.0219469989679
+            },
+            {
+                "timestamp": 1769454648.558716,
+                "detection_ms": 42.380504000902874,
+                "validation_ms": 0.08192300083464943,
+                "prediction_ms": 7.935949000966502,
+                "ui_ms": 34.09226999974635,
+                "latency_ms": 84.5144969989633
+            },
+            {
+                "timestamp": 1769454648.743213,
+                "detection_ms": 31.15722300026391,
+                "validation_ms": 0.05840599988005124,
+                "prediction_ms": 5.3424270008690655,
+                "ui_ms": 25.766038999790908,
+                "latency_ms": 62.342926999917836
+            },
+            {
+                "timestamp": 1769454648.9429717,
+                "detection_ms": 30.979674000263913,
+                "validation_ms": 0.058479001381783746,
+                "prediction_ms": 5.586807999861776,
+                "ui_ms": 25.408624998817686,
+                "latency_ms": 62.07734400049958
+            },
+            {
+                "timestamp": 1769454649.1469982,
+                "detection_ms": 30.299846999696456,
+                "validation_ms": 0.05944300028204452,
+                "prediction_ms": 10.147613998924498,
+                "ui_ms": 25.24463199915772,
+                "latency_ms": 65.77107200064347
+            },
+            {
+                "timestamp": 1769454649.3474119,
+                "detection_ms": 31.508434998613666,
+                "validation_ms": 0.05829399924550671,
+                "prediction_ms": 5.010049999327748,
+                "ui_ms": 25.52725200075656,
+                "latency_ms": 62.121585999193485
+            },
+            {
+                "timestamp": 1769454649.5471227,
+                "detection_ms": 30.46778499992797,
+                "validation_ms": 0.06047899842087645,
+                "prediction_ms": 5.40390700007265,
+                "ui_ms": 25.379609000083292,
+                "latency_ms": 61.3296880001144
+            },
+            {
+                "timestamp": 1769454649.7470655,
+                "detection_ms": 30.032782000489533,
+                "validation_ms": 0.06140500045148656,
+                "prediction_ms": 5.095935999634094,
+                "ui_ms": 25.23976199881872,
+                "latency_ms": 60.448846999861416
+            },
+            {
+                "timestamp": 1769454649.9513066,
+                "detection_ms": 30.88975299942831,
+                "validation_ms": 0.06203500015544705,
+                "prediction_ms": 5.0229940006829565,
+                "ui_ms": 26.307336998797837,
+                "latency_ms": 62.327653999091126
+            },
+            {
+                "timestamp": 1769454650.1510966,
+                "detection_ms": 31.71183700032998,
+                "validation_ms": 0.06083200059947558,
+                "prediction_ms": 4.999957998734317,
+                "ui_ms": 25.658247999672312,
+                "latency_ms": 62.45005900018441
+            },
+            {
+                "timestamp": 1769454650.3511803,
+                "detection_ms": 31.67539399873931,
+                "validation_ms": 0.060368000049493276,
+                "prediction_ms": 4.965033000189578,
+                "ui_ms": 25.40629400027683,
+                "latency_ms": 62.12614399919403
+            },
+            {
+                "timestamp": 1769454650.5513887,
+                "detection_ms": 31.845962001170847,
+                "validation_ms": 0.058276000345358625,
+                "prediction_ms": 5.004976001146133,
+                "ui_ms": 25.77637400099775,
+                "latency_ms": 62.70547600070131
+            },
+            {
+                "timestamp": 1769454650.7719526,
+                "detection_ms": 68.01186799930292,
+                "validation_ms": 0.3871160006383434,
+                "prediction_ms": 72.27400000010675,
+                "ui_ms": 40.09523400054604,
+                "latency_ms": 180.79582700011088
+            },
+            {
+                "timestamp": 1769454650.991948,
+                "detection_ms": 59.83594700046524,
+                "validation_ms": 0.061590999393956736,
+                "prediction_ms": 61.490187001254526,
+                "ui_ms": 52.66048999874329,
+                "latency_ms": 174.1047309988062
+            },
+            {
+                "timestamp": 1769454651.1992092,
+                "detection_ms": 34.02470299988636,
+                "validation_ms": 0.061424001614796,
+                "prediction_ms": 23.879033000412164,
+                "ui_ms": 25.955090999559616,
+                "latency_ms": 83.94904700071493
+            },
+            {
+                "timestamp": 1769454651.3599882,
+                "detection_ms": 32.28824500001792,
+                "validation_ms": 0.06407200089597609,
+                "prediction_ms": 5.084917998829042,
+                "ui_ms": 26.287431001037476,
+                "latency_ms": 63.745405999725335
+            },
+            {
+                "timestamp": 1769454651.5602767,
+                "detection_ms": 31.094637999558472,
+                "validation_ms": 0.060184000176377594,
+                "prediction_ms": 5.030697999245604,
+                "ui_ms": 25.40760999909253,
+                "latency_ms": 61.61135000002105
+            },
+            {
+                "timestamp": 1769454651.760608,
+                "detection_ms": 31.49290199871757,
+                "validation_ms": 0.05948000034550205,
+                "prediction_ms": 7.200345999081037,
+                "ui_ms": 26.08788300130982,
+                "latency_ms": 64.85831200006942
+            },
+            {
+                "timestamp": 1769454651.9603379,
+                "detection_ms": 32.272337999529555,
+                "validation_ms": 0.05984900053590536,
+                "prediction_ms": 14.623683999161585,
+                "ui_ms": 25.868983999316697,
+                "latency_ms": 72.84598400110553
+            },
+            {
+                "timestamp": 1769454652.1642907,
+                "detection_ms": 31.509512999036815,
+                "validation_ms": 0.05881300057808403,
+                "prediction_ms": 14.412747001188109,
+                "ui_ms": 25.10202899975411,
+                "latency_ms": 71.11810099922877
+            },
+            {
+                "timestamp": 1769454652.3645523,
+                "detection_ms": 31.64056400055415,
+                "validation_ms": 0.06292400030361023,
+                "prediction_ms": 5.382538000048953,
+                "ui_ms": 25.761394999790355,
+                "latency_ms": 62.90160499884223
+            },
+            {
+                "timestamp": 1769454652.5644948,
+                "detection_ms": 31.649526999899535,
+                "validation_ms": 0.1049959992087679,
+                "prediction_ms": 5.027901999710593,
+                "ui_ms": 25.14815699942119,
+                "latency_ms": 61.94876700101304
+            },
+            {
+                "timestamp": 1769454652.7684603,
+                "detection_ms": 31.895128999167355,
+                "validation_ms": 0.060201000451343134,
+                "prediction_ms": 4.989754999769502,
+                "ui_ms": 25.235782999516232,
+                "latency_ms": 62.199869000323815
+            },
+            {
+                "timestamp": 1769454652.9686353,
+                "detection_ms": 31.95096099989314,
+                "validation_ms": 0.058831999922404066,
+                "prediction_ms": 5.025513000873616,
+                "ui_ms": 25.72150899868575,
+                "latency_ms": 62.77418399986345
+            },
+            {
+                "timestamp": 1769454653.168509,
+                "detection_ms": 31.722748000902357,
+                "validation_ms": 0.061312999605434015,
+                "prediction_ms": 5.013531999793486,
+                "ui_ms": 25.240118000510847,
+                "latency_ms": 62.07391299903975
+            },
+            {
+                "timestamp": 1769454653.368431,
+                "detection_ms": 30.514140999002848,
+                "validation_ms": 0.05975699968985282,
+                "prediction_ms": 16.1843530004262,
+                "ui_ms": 25.583532000382547,
+                "latency_ms": 72.35933899937663
+            },
+            {
+                "timestamp": 1769454653.5727203,
+                "detection_ms": 30.930664001061814,
+                "validation_ms": 0.059535001128097065,
+                "prediction_ms": 15.22840500001621,
+                "ui_ms": 25.678714000605396,
+                "latency_ms": 71.91537300059281
+            },
+            {
+                "timestamp": 1769454653.79282,
+                "detection_ms": 36.98579000047175,
+                "validation_ms": 0.060349999330355786,
+                "prediction_ms": 5.267022999760229,
+                "ui_ms": 25.152139000056195,
+                "latency_ms": 67.48837600025581
+            },
+            {
+                "timestamp": 1769454653.972515,
+                "detection_ms": 31.800190001376905,
+                "validation_ms": 0.05966500066278968,
+                "prediction_ms": 7.021907998932875,
+                "ui_ms": 25.29246899939608,
+                "latency_ms": 64.19369299874234
+            },
+            {
+                "timestamp": 1769454654.1728077,
+                "detection_ms": 31.800228000065545,
+                "validation_ms": 0.05814600081066601,
+                "prediction_ms": 10.539602999415365,
+                "ui_ms": 25.828265999734867,
+                "latency_ms": 68.2630009996501
+            },
+            {
+                "timestamp": 1769454654.3765738,
+                "detection_ms": 31.93501900022966,
+                "validation_ms": 0.06110899994382635,
+                "prediction_ms": 5.108232999191387,
+                "ui_ms": 25.339448999147862,
+                "latency_ms": 62.46369899963611
+            },
+            {
+                "timestamp": 1769454654.5766432,
+                "detection_ms": 30.453071000010823,
+                "validation_ms": 0.05899800089537166,
+                "prediction_ms": 5.204524999498972,
+                "ui_ms": 25.18539800075814,
+                "latency_ms": 60.920269999769516
+            },
+            {
+                "timestamp": 1769454654.7768452,
+                "detection_ms": 30.84368599957088,
+                "validation_ms": 0.05996099935146049,
+                "prediction_ms": 5.099232999782544,
+                "ui_ms": 25.64645699931134,
+                "latency_ms": 61.66876300085278
+            },
+            {
+                "timestamp": 1769454654.9805894,
+                "detection_ms": 30.910944000424934,
+                "validation_ms": 0.06068400034564547,
+                "prediction_ms": 7.808697000655229,
+                "ui_ms": 25.572107999323634,
+                "latency_ms": 64.37213400022301
+            },
+            {
+                "timestamp": 1769454655.1806653,
+                "detection_ms": 30.503514999509207,
+                "validation_ms": 0.05983099981676787,
+                "prediction_ms": 5.2249889995437115,
+                "ui_ms": 25.08286599913845,
+                "latency_ms": 60.90699500055052
+            },
+            {
+                "timestamp": 1769454655.3808389,
+                "detection_ms": 31.753897999806213,
+                "validation_ms": 0.06003499947837554,
+                "prediction_ms": 10.670691000996158,
+                "ui_ms": 25.49746299882827,
+                "latency_ms": 68.00047499928041
+            },
+            {
+                "timestamp": 1769454655.5807219,
+                "detection_ms": 31.38576200035459,
+                "validation_ms": 0.06027599920344073,
+                "prediction_ms": 5.126509999172413,
+                "ui_ms": 25.552942999638617,
+                "latency_ms": 62.14428599923849
+            },
+            {
+                "timestamp": 1769454655.7846935,
+                "detection_ms": 30.48429299997224,
+                "validation_ms": 0.0611830000707414,
+                "prediction_ms": 5.157360999874072,
+                "ui_ms": 25.284470000769943,
+                "latency_ms": 61.00717600020289
+            },
+            {
+                "timestamp": 1769454655.9849496,
+                "detection_ms": 30.859557999065146,
+                "validation_ms": 0.0598679998802254,
+                "prediction_ms": 5.078104999483912,
+                "ui_ms": 25.87422899887315,
+                "latency_ms": 61.890908000350464
+            },
+            {
+                "timestamp": 1769454656.1847384,
+                "detection_ms": 30.47138699912466,
+                "validation_ms": 0.06216400106495712,
+                "prediction_ms": 5.229099999269238,
+                "ui_ms": 25.460503000431345,
+                "latency_ms": 61.260763000973384
+            },
+            {
+                "timestamp": 1769454656.3887317,
+                "detection_ms": 31.564515998979914,
+                "validation_ms": 0.05983200026093982,
+                "prediction_ms": 5.244690999461454,
+                "ui_ms": 25.185103999319836,
+                "latency_ms": 62.07462400016084
+            },
+            {
+                "timestamp": 1769454656.589052,
+                "detection_ms": 30.518034000124317,
+                "validation_ms": 0.06225700053619221,
+                "prediction_ms": 14.837327998975525,
+                "ui_ms": 25.562332999470527,
+                "latency_ms": 70.99983799889742
+            },
+            {
+                "timestamp": 1769454656.7898426,
+                "detection_ms": 30.22393300125259,
+                "validation_ms": 0.05766499998571817,
+                "prediction_ms": 11.128231999464333,
+                "ui_ms": 25.936948999515153,
+                "latency_ms": 67.3646480008756
+            },
+            {
+                "timestamp": 1769454656.9887946,
+                "detection_ms": 30.37590900021314,
+                "validation_ms": 0.05988700104353484,
+                "prediction_ms": 16.09476700105006,
+                "ui_ms": 25.242621999495896,
+                "latency_ms": 71.79196200013394
+            },
+            {
+                "timestamp": 1769454657.1930926,
+                "detection_ms": 30.80802499971469,
+                "validation_ms": 0.05897899973206222,
+                "prediction_ms": 5.055143001300166,
+                "ui_ms": 25.756697001270368,
+                "latency_ms": 61.713917000815854
+            },
+            {
+                "timestamp": 1769454657.3928301,
+                "detection_ms": 30.428722999204183,
+                "validation_ms": 0.058961000831914134,
+                "prediction_ms": 5.144675998963066,
+                "ui_ms": 24.96203900045657,
+                "latency_ms": 60.6125289996271
+            },
+            {
+                "timestamp": 1769454657.593003,
+                "detection_ms": 31.553814000290004,
+                "validation_ms": 0.06383099935192149,
+                "prediction_ms": 13.667107999935979,
+                "ui_ms": 24.695325999346096,
+                "latency_ms": 69.99783900027978
+            },
+            {
+                "timestamp": 1769454657.797125,
+                "detection_ms": 31.66942099960579,
+                "validation_ms": 0.060960001064813696,
+                "prediction_ms": 5.084141999759595,
+                "ui_ms": 25.318785999843385,
+                "latency_ms": 62.15067999983148
+            },
+            {
+                "timestamp": 1769454657.9969513,
+                "detection_ms": 31.74034599942388,
+                "validation_ms": 0.059795000197482295,
+                "prediction_ms": 5.07579000077385,
+                "ui_ms": 25.155478000669973,
+                "latency_ms": 62.04927799990401
+            },
+            {
+                "timestamp": 1769454658.1968114,
+                "detection_ms": 30.608811001002323,
+                "validation_ms": 0.059868998505407944,
+                "prediction_ms": 11.244543000429985,
+                "ui_ms": 25.2104760002112,
+                "latency_ms": 67.15808599983575
+            },
+            {
+                "timestamp": 1769454658.3972416,
+                "detection_ms": 31.05727699949057,
+                "validation_ms": 0.05879499985894654,
+                "prediction_ms": 7.062444999974105,
+                "ui_ms": 25.73504999963916,
+                "latency_ms": 63.933289000488
+            },
+            {
+                "timestamp": 1769454658.6010668,
+                "detection_ms": 31.76497499953257,
+                "validation_ms": 0.05873899863217957,
+                "prediction_ms": 5.521941999177216,
+                "ui_ms": 25.345285999719636,
+                "latency_ms": 62.70973699975002
+            },
+            {
+                "timestamp": 1769454658.8010614,
+                "detection_ms": 44.13473999920825,
+                "validation_ms": 0.08797800001048017,
+                "prediction_ms": 7.575982999696862,
+                "ui_ms": 47.10585999964678,
+                "latency_ms": 98.92876499907288
+            },
+            {
+                "timestamp": 1769454659.0012553,
+                "detection_ms": 30.632643998615094,
+                "validation_ms": 0.05871999928785954,
+                "prediction_ms": 9.114876000239747,
+                "ui_ms": 26.662760999897728,
+                "latency_ms": 66.48800000039046
+            },
+            {
+                "timestamp": 1769454659.2059903,
+                "detection_ms": 35.53490400008741,
+                "validation_ms": 0.06423800004995428,
+                "prediction_ms": 5.194415998630575,
+                "ui_ms": 25.224328001058893,
+                "latency_ms": 66.05884800046624
+            },
+            {
+                "timestamp": 1769454659.4063714,
+                "detection_ms": 39.19835300075647,
+                "validation_ms": 0.08881200119503774,
+                "prediction_ms": 5.242581000857172,
+                "ui_ms": 35.11158500077727,
+                "latency_ms": 79.66970099914761
+            },
+            {
+                "timestamp": 1769454659.6054823,
+                "detection_ms": 31.77043899995624,
+                "validation_ms": 0.05927600068389438,
+                "prediction_ms": 5.26317299954826,
+                "ui_ms": 26.667186999475234,
+                "latency_ms": 63.77826000061759
+            },
+            {
+                "timestamp": 1769454659.809867,
+                "detection_ms": 35.43548100060434,
+                "validation_ms": 0.06062700049369596,
+                "prediction_ms": 5.181528000321123,
+                "ui_ms": 25.227754000297864,
+                "latency_ms": 65.9244270009367
+            },
+            {
+                "timestamp": 1769454660.0105677,
+                "detection_ms": 39.11113499998464,
+                "validation_ms": 0.11279199861746747,
+                "prediction_ms": 5.170583999642986,
+                "ui_ms": 35.32411699961813,
+                "latency_ms": 79.74825800010876
+            },
+            {
+                "timestamp": 1769454660.2093544,
+                "detection_ms": 31.003947999124648,
+                "validation_ms": 0.06099799975345377,
+                "prediction_ms": 5.009367001548526,
+                "ui_ms": 26.88329099873954,
+                "latency_ms": 62.99395599853597
+            },
+            {
+                "timestamp": 1769454660.4143195,
+                "detection_ms": 35.915651998948306,
+                "validation_ms": 0.060090000260970555,
+                "prediction_ms": 5.116067000926705,
+                "ui_ms": 25.65335200051777,
+                "latency_ms": 66.76323499959835
+            },
+            {
+                "timestamp": 1769454660.61077,
+                "detection_ms": 42.175143000349635,
+                "validation_ms": 0.08483099918521475,
+                "prediction_ms": 14.95334500032186,
+                "ui_ms": 35.699935999218724,
+                "latency_ms": 92.94029100055923
+            },
+            {
+                "timestamp": 1769454660.8134687,
+                "detection_ms": 30.70067999942694,
+                "validation_ms": 0.17206799930136185,
+                "prediction_ms": 7.17888599865546,
+                "ui_ms": 26.865310001085163,
+                "latency_ms": 64.93572300132655
+            },
+            {
+                "timestamp": 1769454661.0180774,
+                "detection_ms": 35.66095800124458,
+                "validation_ms": 0.06357100028253626,
+                "prediction_ms": 5.2108050003880635,
+                "ui_ms": 25.3327159989567,
+                "latency_ms": 66.28654999985883
+            },
+            {
+                "timestamp": 1769454661.214726,
+                "detection_ms": 39.250300000276184,
+                "validation_ms": 0.0837560000945814,
+                "prediction_ms": 5.273913999189972,
+                "ui_ms": 35.37404200142191,
+                "latency_ms": 80.02847300122085
+            },
+            {
+                "timestamp": 1769454661.4174802,
+                "detection_ms": 30.77206799935084,
+                "validation_ms": 0.06051600030332338,
+                "prediction_ms": 5.0229779990331735,
+                "ui_ms": 27.155116000358248,
+                "latency_ms": 63.02990099902672
+            },
+            {
+                "timestamp": 1769454661.6223834,
+                "detection_ms": 36.60181499981263,
+                "validation_ms": 0.059406000218586996,
+                "prediction_ms": 15.230779999910737,
+                "ui_ms": 25.207275000866503,
+                "latency_ms": 77.11836800081073
+            },
+            {
+                "timestamp": 1769454661.818698,
+                "detection_ms": 40.45677700014494,
+                "validation_ms": 0.08325700036948547,
+                "prediction_ms": 5.74649100053648,
+                "ui_ms": 36.10012799981632,
+                "latency_ms": 82.41518800059566
+            },
+            {
+                "timestamp": 1769454662.0176854,
+                "detection_ms": 31.635651001124643,
+                "validation_ms": 0.05942399911873508,
+                "prediction_ms": 5.088013000204228,
+                "ui_ms": 26.990327998646535,
+                "latency_ms": 63.79293399913877
+            },
+            {
+                "timestamp": 1769454662.2261891,
+                "detection_ms": 36.79969899894786,
+                "validation_ms": 0.060184000176377594,
+                "prediction_ms": 15.262260998497368,
+                "ui_ms": 25.126649999947404,
+                "latency_ms": 77.28666200091538
+            },
+            {
+                "timestamp": 1769454662.4228108,
+                "detection_ms": 39.3321499996091,
+                "validation_ms": 0.08279300163849257,
+                "prediction_ms": 5.223285999818472,
+                "ui_ms": 35.41320899967104,
+                "latency_ms": 80.07778999854054
+            },
+            {
+                "timestamp": 1769454662.6216989,
+                "detection_ms": 31.47511899987876,
+                "validation_ms": 0.05625699850497767,
+                "prediction_ms": 5.103327001052094,
+                "ui_ms": 26.940347999698133,
+                "latency_ms": 63.59507000161102
+            },
+            {
+                "timestamp": 1769454662.8263602,
+                "detection_ms": 35.862046001057024,
+                "validation_ms": 0.06173799920361489,
+                "prediction_ms": 5.157362998943427,
+                "ui_ms": 25.218775999746867,
+                "latency_ms": 66.31969899899559
+            },
+            {
+                "timestamp": 1769454663.0269473,
+                "detection_ms": 39.229951000379515,
+                "validation_ms": 0.08566299948142841,
+                "prediction_ms": 16.002755999579676,
+                "ui_ms": 35.26434400009748,
+                "latency_ms": 90.61117700002796
+            },
+            {
+                "timestamp": 1769454663.2254305,
+                "detection_ms": 30.49832100077765,
+                "validation_ms": 0.06038699939381331,
+                "prediction_ms": 5.258229000901338,
+                "ui_ms": 26.65193199936766,
+                "latency_ms": 62.48690599932161
+            },
+            {
+                "timestamp": 1769454663.430371,
+                "detection_ms": 35.52742899955774,
+                "validation_ms": 0.06129500070528593,
+                "prediction_ms": 5.015904000174487,
+                "ui_ms": 25.16633499908494,
+                "latency_ms": 65.80657099948439
+            },
+            {
+                "timestamp": 1769454663.6311255,
+                "detection_ms": 39.271560999623034,
+                "validation_ms": 0.08429400077147875,
+                "prediction_ms": 5.143251999470522,
+                "ui_ms": 35.397784999076976,
+                "latency_ms": 79.92344600097567
+            },
+            {
+                "timestamp": 1769454663.8294888,
+                "detection_ms": 30.678443999931915,
+                "validation_ms": 0.13225499969848897,
+                "prediction_ms": 7.23464400107332,
+                "ui_ms": 27.1470629995747,
+                "latency_ms": 65.21162900025956
+            },
+            {
+                "timestamp": 1769454664.0661564,
+                "detection_ms": 57.056573999943794,
+                "validation_ms": 0.06059099905542098,
+                "prediction_ms": 5.036403999838512,
+                "ui_ms": 24.964174999695388,
+                "latency_ms": 87.13922500101035
+            },
+            {
+                "timestamp": 1769454664.231041,
+                "detection_ms": 40.45754199978546,
+                "validation_ms": 0.08275700020021759,
+                "prediction_ms": 5.2321380007924745,
+                "ui_ms": 35.340010001164046,
+                "latency_ms": 81.13801999934367
+            },
+            {
+                "timestamp": 1769454664.4338427,
+                "detection_ms": 32.656674999088864,
+                "validation_ms": 0.0598679998802254,
+                "prediction_ms": 0,
+                "ui_ms": 42.22659299921361,
+                "latency_ms": 74.97569100087276
+            },
+            {
+                "timestamp": 1769454664.6381707,
+                "detection_ms": 36.266312999941874,
+                "validation_ms": 0.058663999880081974,
+                "prediction_ms": 0,
+                "ui_ms": 40.62290600086271,
+                "latency_ms": 76.96334600041155
+            },
+            {
+                "timestamp": 1769454664.8351426,
+                "detection_ms": 39.756287000273005,
+                "validation_ms": 0.08216400055971462,
+                "prediction_ms": 0,
+                "ui_ms": 45.45350300031714,
+                "latency_ms": 85.31400799984112
+            },
+            {
+                "timestamp": 1769454665.037557,
+                "detection_ms": 37.346424998759176,
+                "validation_ms": 0.0590899999224348,
+                "prediction_ms": 0,
+                "ui_ms": 41.98254699986137,
+                "latency_ms": 79.40350799981388
+            },
+            {
+                "timestamp": 1769454665.2422311,
+                "detection_ms": 36.90168200046173,
+                "validation_ms": 0.05812699964735657,
+                "prediction_ms": 0,
+                "ui_ms": 40.40419299963105,
+                "latency_ms": 77.37778000046092
+            },
+            {
+                "timestamp": 1769454665.4390213,
+                "detection_ms": 39.09799699977157,
+                "validation_ms": 0.08088600043265615,
+                "prediction_ms": 0,
+                "ui_ms": 45.7472529997176,
+                "latency_ms": 84.96822699999029
+            },
+            {
+                "timestamp": 1769454665.6379707,
+                "detection_ms": 36.93171700069797,
+                "validation_ms": 0.06049799958418589,
+                "prediction_ms": 0,
+                "ui_ms": 41.91167899989523,
+                "latency_ms": 78.91798600030597
+            },
+            {
+                "timestamp": 1769454665.8462982,
+                "detection_ms": 36.346348000734,
+                "validation_ms": 0.05879399941477459,
+                "prediction_ms": 5.061885000031907,
+                "ui_ms": 24.931085001298925,
+                "latency_ms": 66.41837099959957
+            },
+            {
+                "timestamp": 1769454666.043008,
+                "detection_ms": 39.58955499911099,
+                "validation_ms": 0.08181200064427685,
+                "prediction_ms": 5.12758699915139,
+                "ui_ms": 35.17414800080587,
+                "latency_ms": 79.99854499939829
+            },
+            {
+                "timestamp": 1769454666.2420063,
+                "detection_ms": 31.25537300002179,
+                "validation_ms": 0.059497999245650135,
+                "prediction_ms": 5.036070999267395,
+                "ui_ms": 26.775338999868836,
+                "latency_ms": 63.14485500115552
+            },
+            {
+                "timestamp": 1769454666.4468083,
+                "detection_ms": 36.0998029991606,
+                "validation_ms": 0.05735000013373792,
+                "prediction_ms": 0,
+                "ui_ms": 40.104056999552995,
+                "latency_ms": 76.29348500086053
+            },
+            {
+                "timestamp": 1769454666.6470845,
+                "detection_ms": 39.4095979991107,
+                "validation_ms": 0.08031200013647322,
+                "prediction_ms": 0,
+                "ui_ms": 45.14770099922316,
+                "latency_ms": 84.65942600014387
+            },
+            {
+                "timestamp": 1769454666.8461149,
+                "detection_ms": 36.24572300032014,
+                "validation_ms": 0.06392399882315658,
+                "prediction_ms": 0,
+                "ui_ms": 41.91234800055099,
+                "latency_ms": 78.23858700066921
+            },
+            {
+                "timestamp": 1769454667.0507543,
+                "detection_ms": 36.063785999431275,
+                "validation_ms": 0.058294001064496115,
+                "prediction_ms": 5.172881999897072,
+                "ui_ms": 25.083323000217206,
+                "latency_ms": 66.39730300048541
+            },
+            {
+                "timestamp": 1769454667.2510962,
+                "detection_ms": 39.24927200023376,
+                "validation_ms": 0.08368199996766634,
+                "prediction_ms": 0,
+                "ui_ms": 45.36756600100489,
+                "latency_ms": 84.72275999884005
+            },
+            {
+                "timestamp": 1769454667.4498405,
+                "detection_ms": 34.89236300083576,
+                "validation_ms": 0.06038699939381331,
+                "prediction_ms": 0,
+                "ui_ms": 42.12895300042874,
+                "latency_ms": 77.11321999886422
+            },
+            {
+                "timestamp": 1769454667.6544135,
+                "detection_ms": 36.64389699952153,
+                "validation_ms": 0.06023900095897261,
+                "prediction_ms": 0,
+                "ui_ms": 40.34001299987722,
+                "latency_ms": 77.06192600016948
+            },
+            {
+                "timestamp": 1769454667.8511105,
+                "detection_ms": 39.24891999849933,
+                "validation_ms": 0.08105300003080629,
+                "prediction_ms": 0,
+                "ui_ms": 45.98622999947111,
+                "latency_ms": 85.33672200064757
+            },
+            {
+                "timestamp": 1769454668.053902,
+                "detection_ms": 35.92764399945736,
+                "validation_ms": 0.059497999245650135,
+                "prediction_ms": 5.120419999002479,
+                "ui_ms": 26.892263000263483,
+                "latency_ms": 68.01940000150353
+            },
+            {
+                "timestamp": 1769454668.2584925,
+                "detection_ms": 35.7881499985524,
+                "validation_ms": 0.059497999245650135,
+                "prediction_ms": 0,
+                "ui_ms": 40.660966998984804,
+                "latency_ms": 76.52409500042268
+            },
+            {
+                "timestamp": 1769454668.4551914,
+                "detection_ms": 39.21366400027182,
+                "validation_ms": 0.07992300015757792,
+                "prediction_ms": 0,
+                "ui_ms": 45.820478999303305,
+                "latency_ms": 85.15447200079507
+            },
+            {
+                "timestamp": 1769454668.6579423,
+                "detection_ms": 37.13547399820527,
+                "validation_ms": 0.06701599886582699,
+                "prediction_ms": 0,
+                "ui_ms": 41.81326199977775,
+                "latency_ms": 79.0316590009752
+            },
+            {
+                "timestamp": 1769454668.8626654,
+                "detection_ms": 36.07608399943274,
+                "validation_ms": 0.06707200009259395,
+                "prediction_ms": 0,
+                "ui_ms": 39.71535100026813,
+                "latency_ms": 75.87504299954162
+            },
+            {
+                "timestamp": 1769454669.0592494,
+                "detection_ms": 39.68533400075103,
+                "validation_ms": 0.08181200064427685,
+                "prediction_ms": 0,
+                "ui_ms": 61.253166999449604,
+                "latency_ms": 101.04416399917682
+            },
+            {
+                "timestamp": 1769454669.2581952,
+                "detection_ms": 36.59686500031967,
+                "validation_ms": 0.06349799878080375,
+                "prediction_ms": 0,
+                "ui_ms": 41.95218400127487,
+                "latency_ms": 78.62895300058881
+            },
+            {
+                "timestamp": 1769454669.4665833,
+                "detection_ms": 36.33159599849023,
+                "validation_ms": 0.059497999245650135,
+                "prediction_ms": 0,
+                "ui_ms": 40.113541999744484,
+                "latency_ms": 76.53811599993787
+            },
+            {
+                "timestamp": 1769454669.6633394,
+                "detection_ms": 39.892382999823894,
+                "validation_ms": 0.08258999878307804,
+                "prediction_ms": 0,
+                "ui_ms": 45.84660899854498,
+                "latency_ms": 85.84315600091941
+            },
+            {
+                "timestamp": 1769454669.862161,
+                "detection_ms": 37.12379000171495,
+                "validation_ms": 0.06021999979566317,
+                "prediction_ms": 0,
+                "ui_ms": 41.85174300073413,
+                "latency_ms": 79.05023500097741
+            },
+            {
+                "timestamp": 1769454670.0668693,
+                "detection_ms": 35.408072000791435,
+                "validation_ms": 0.05835000047227368,
+                "prediction_ms": 11.875898000653251,
+                "ui_ms": 28.403733000232023,
+                "latency_ms": 75.77014500020596
+            },
+            {
+                "timestamp": 1769454670.2673566,
+                "detection_ms": 38.82182800043665,
+                "validation_ms": 0.0825160004751524,
+                "prediction_ms": 7.6188740003999555,
+                "ui_ms": 35.43653399901814,
+                "latency_ms": 81.9853620014328
+            },
+            {
+                "timestamp": 1769454670.4662435,
+                "detection_ms": 31.66082700045081,
+                "validation_ms": 0.059515999964787625,
+                "prediction_ms": 5.107199000121909,
+                "ui_ms": 26.925486999971326,
+                "latency_ms": 63.77173199871322
+            },
+            {
+                "timestamp": 1769454670.6707678,
+                "detection_ms": 36.087808999582194,
+                "validation_ms": 0.07692299914197065,
+                "prediction_ms": 5.04221899973345,
+                "ui_ms": 25.36555699953169,
+                "latency_ms": 66.6174329999194
+            },
+            {
+                "timestamp": 1769454670.8714879,
+                "detection_ms": 38.66659300001629,
+                "validation_ms": 0.07936800102470443,
+                "prediction_ms": 0,
+                "ui_ms": 45.01730599986331,
+                "latency_ms": 83.78578299925721
+            },
+            {
+                "timestamp": 1769454671.0702,
+                "detection_ms": 36.76162000010663,
+                "validation_ms": 0.06488600047305226,
+                "prediction_ms": 0,
+                "ui_ms": 41.653678999864496,
+                "latency_ms": 78.4942600002978
+            },
+            {
+                "timestamp": 1769454671.2748091,
+                "detection_ms": 36.623626001528464,
+                "validation_ms": 0.05792400042992085,
+                "prediction_ms": 0,
+                "ui_ms": 40.332964999834076,
+                "latency_ms": 77.03042100001767
+            },
+            {
+                "timestamp": 1769454671.4714775,
+                "detection_ms": 40.411443000266445,
+                "validation_ms": 0.08146099935402162,
+                "prediction_ms": 0,
+                "ui_ms": 45.57273299906228,
+                "latency_ms": 86.0882840006525
+            },
+            {
+                "timestamp": 1769454671.6743283,
+                "detection_ms": 37.387877999208285,
+                "validation_ms": 0.05992399928800296,
+                "prediction_ms": 0,
+                "ui_ms": 42.421894999279175,
+                "latency_ms": 79.90086099925975
+            },
+            {
+                "timestamp": 1769454671.8789663,
+                "detection_ms": 36.145938000117894,
+                "validation_ms": 0.06051600030332338,
+                "prediction_ms": 0,
+                "ui_ms": 40.51547699964431,
+                "latency_ms": 76.73681900087104
+            },
+            {
+                "timestamp": 1769454672.0757694,
+                "detection_ms": 39.232318000358646,
+                "validation_ms": 0.11536700003489386,
+                "prediction_ms": 0,
+                "ui_ms": 45.76374700081942,
+                "latency_ms": 85.14085599927057
+            },
+            {
+                "timestamp": 1769454672.2784686,
+                "detection_ms": 35.60292099973594,
+                "validation_ms": 0.05810999937239103,
+                "prediction_ms": 5.05503500062332,
+                "ui_ms": 26.83343599892396,
+                "latency_ms": 67.57007400119619
+            },
+            {
+                "timestamp": 1769454672.4829774,
+                "detection_ms": 36.07288599960157,
+                "validation_ms": 0.0794789993960876,
+                "prediction_ms": 21.989246999510215,
+                "ui_ms": 26.40635799980373,
+                "latency_ms": 84.57724599975336
+            },
+            {
+                "timestamp": 1769454672.6798756,
+                "detection_ms": 40.056252999420394,
+                "validation_ms": 0.08049700045376085,
+                "prediction_ms": 5.491075000463752,
+                "ui_ms": 36.720087000503554,
+                "latency_ms": 82.39478199902805
+            },
+            {
+                "timestamp": 1769454672.878589,
+                "detection_ms": 32.17353499894671,
+                "validation_ms": 0.058256999182049185,
+                "prediction_ms": 15.349579000030644,
+                "ui_ms": 28.164669000034337,
+                "latency_ms": 75.76483699995151
+            },
+            {
+                "timestamp": 1769454673.0874314,
+                "detection_ms": 36.0339999988355,
+                "validation_ms": 0.05946099918219261,
+                "prediction_ms": 14.639807001003646,
+                "ui_ms": 26.595129998895572,
+                "latency_ms": 77.3490089995903
+            },
+            {
+                "timestamp": 1769454673.283932,
+                "detection_ms": 40.861041999960435,
+                "validation_ms": 0.08107199937512632,
+                "prediction_ms": 5.23119600075006,
+                "ui_ms": 37.17727599905629,
+                "latency_ms": 83.3774180009641
+            },
+            {
+                "timestamp": 1769454673.4825985,
+                "detection_ms": 30.821526001091115,
+                "validation_ms": 0.059812000472447835,
+                "prediction_ms": 5.502168000020902,
+                "ui_ms": 27.975472001344315,
+                "latency_ms": 64.37675599954673
+            },
+            {
+                "timestamp": 1769454673.69153,
+                "detection_ms": 37.4741930008895,
+                "validation_ms": 0.05914599933021236,
+                "prediction_ms": 6.386267999914708,
+                "ui_ms": 26.078888000483857,
+                "latency_ms": 70.03830900066532
+            },
+            {
+                "timestamp": 1769454673.887878,
+                "detection_ms": 40.895486001318204,
+                "validation_ms": 0.08272000013676006,
+                "prediction_ms": 10.405911998532247,
+                "ui_ms": 36.9749680012319,
+                "latency_ms": 88.38823299993237
+            },
+            {
+                "timestamp": 1769454674.0866146,
+                "detection_ms": 31.83062300013262,
+                "validation_ms": 0.0599430004513124,
+                "prediction_ms": 11.655721998977242,
+                "ui_ms": 27.7147420001711,
+                "latency_ms": 71.27947399931145
+            },
+            {
+                "timestamp": 1769454674.3150866,
+                "detection_ms": 37.2055919997365,
+                "validation_ms": 0.06360900079016574,
+                "prediction_ms": 15.463058000023011,
+                "ui_ms": 26.143979999687872,
+                "latency_ms": 78.89790499939409
+            },
+            {
+                "timestamp": 1769454674.4919791,
+                "detection_ms": 40.1521240000875,
+                "validation_ms": 0.2896750011132099,
+                "prediction_ms": 10.67484800114471,
+                "ui_ms": 37.27145999982895,
+                "latency_ms": 88.41484600088734
+            },
+            {
+                "timestamp": 1769454674.6908157,
+                "detection_ms": 33.13359800085891,
+                "validation_ms": 0.05892300032428466,
+                "prediction_ms": 17.15222399980121,
+                "ui_ms": 27.748481001253822,
+                "latency_ms": 78.1118199993216
+            },
+            {
+                "timestamp": 1769454674.895796,
+                "detection_ms": 37.314829000024474,
+                "validation_ms": 0.058572000853018835,
+                "prediction_ms": 5.132513999342336,
+                "ui_ms": 26.353676001235726,
+                "latency_ms": 68.9975309996953
+            },
+            {
+                "timestamp": 1769454675.0923722,
+                "detection_ms": 40.82262100018852,
+                "validation_ms": 0.08099699880403932,
+                "prediction_ms": 16.71077600076387,
+                "ui_ms": 36.66868500113196,
+                "latency_ms": 94.31233899886138
+            },
+            {
+                "timestamp": 1769454675.2950103,
+                "detection_ms": 30.877360000886256,
+                "validation_ms": 0.060182999732205644,
+                "prediction_ms": 12.234944000738324,
+                "ui_ms": 26.713535000453703,
+                "latency_ms": 69.90530000075523
+            },
+            {
+                "timestamp": 1769454675.4995024,
+                "detection_ms": 36.62733500095783,
+                "validation_ms": 0.0559799991606269,
+                "prediction_ms": 5.179715999474865,
+                "ui_ms": 25.030962000528234,
+                "latency_ms": 66.92408500020974
+            },
+            {
+                "timestamp": 1769454675.6959863,
+                "detection_ms": 39.30204200150911,
+                "validation_ms": 0.10110699986398686,
+                "prediction_ms": 11.267236001003766,
+                "ui_ms": 35.06357200058119,
+                "latency_ms": 85.7678450011008
+            },
+            {
+                "timestamp": 1769454675.8986819,
+                "detection_ms": 30.580239999835612,
+                "validation_ms": 0.05938700087426696,
+                "prediction_ms": 5.08636800077511,
+                "ui_ms": 26.790181000251323,
+                "latency_ms": 62.551490000259946
+            },
+            {
+                "timestamp": 1769454676.103558,
+                "detection_ms": 35.680775001310394,
+                "validation_ms": 0.06083200059947558,
+                "prediction_ms": 11.227312001210521,
+                "ui_ms": 25.960969000152545,
+                "latency_ms": 72.94742399972165
+            },
+            {
+                "timestamp": 1769454676.2999148,
+                "detection_ms": 39.27734100034286,
+                "validation_ms": 0.07829400055925362,
+                "prediction_ms": 11.067908999393694,
+                "ui_ms": 35.22030900057871,
+                "latency_ms": 85.67598099944007
+            },
+            {
+                "timestamp": 1769454676.498953,
+                "detection_ms": 30.650036000224645,
+                "validation_ms": 0.060498001403175294,
+                "prediction_ms": 12.585322001541499,
+                "ui_ms": 27.225872001508833,
+                "latency_ms": 70.54696700106433
+            },
+            {
+                "timestamp": 1769454676.7073243,
+                "detection_ms": 35.78334600024391,
+                "validation_ms": 0.0566100006835768,
+                "prediction_ms": 5.099460000565159,
+                "ui_ms": 25.14851500018267,
+                "latency_ms": 66.11263299964776
+            },
+            {
+                "timestamp": 1769454676.9044127,
+                "detection_ms": 39.056866999089834,
+                "validation_ms": 0.11805199937953148,
+                "prediction_ms": 5.2514729995891685,
+                "ui_ms": 35.54607600017334,
+                "latency_ms": 80.01879899893538
+            },
+            {
+                "timestamp": 1769454677.1028643,
+                "detection_ms": 30.690850000610226,
+                "validation_ms": 0.05859100019733887,
+                "prediction_ms": 9.490481001193984,
+                "ui_ms": 27.019952998671215,
+                "latency_ms": 67.28000400107703
+            },
+            {
+                "timestamp": 1769454677.3114939,
+                "detection_ms": 35.9351200004312,
+                "validation_ms": 0.06168300024000928,
+                "prediction_ms": 7.698707000599825,
+                "ui_ms": 25.3617310008849,
+                "latency_ms": 69.07842599866854
+            },
+            {
+                "timestamp": 1769454677.508139,
+                "detection_ms": 40.029132998824934,
+                "validation_ms": 0.13705099991057068,
+                "prediction_ms": 5.130608000399661,
+                "ui_ms": 35.38124899932882,
+                "latency_ms": 80.71287299935648
+            },
+            {
+                "timestamp": 1769454677.710981,
+                "detection_ms": 31.14746500068577,
+                "validation_ms": 0.05925799996475689,
+                "prediction_ms": 5.092163999506738,
+                "ui_ms": 27.116839000882464,
+                "latency_ms": 63.4418169993296
+            },
+            {
+                "timestamp": 1769454677.911699,
+                "detection_ms": 35.63376000056451,
+                "validation_ms": 0.058441999499336816,
+                "prediction_ms": 15.546889999313862,
+                "ui_ms": 25.983116998759215,
+                "latency_ms": 77.27806000002602
+            },
+            {
+                "timestamp": 1769454678.1125724,
+                "detection_ms": 40.54865299985977,
+                "validation_ms": 0.08501599950250238,
+                "prediction_ms": 12.999606000448694,
+                "ui_ms": 36.74026099906769,
+                "latency_ms": 90.40059099970676
+            },
+            {
+                "timestamp": 1769454678.3109727,
+                "detection_ms": 31.569470000249567,
+                "validation_ms": 0.05773900011263322,
+                "prediction_ms": 5.353358999855118,
+                "ui_ms": 28.03569800016703,
+                "latency_ms": 65.03637799869466
+            },
+            {
+                "timestamp": 1769454678.5158625,
+                "detection_ms": 35.369363000427256,
+                "validation_ms": 0.0599430004513124,
+                "prediction_ms": 11.222497998460312,
+                "ui_ms": 24.94546799971431,
+                "latency_ms": 71.62147300005017
+            },
+            {
+                "timestamp": 1769454678.7123125,
+                "detection_ms": 38.60764400087646,
+                "validation_ms": 0.07973800165927969,
+                "prediction_ms": 5.0533319990790915,
+                "ui_ms": 35.28286599976127,
+                "latency_ms": 79.05554100034351
+            },
+            {
+                "timestamp": 1769454678.9151816,
+                "detection_ms": 30.52276400012488,
+                "validation_ms": 0.0582390002819011,
+                "prediction_ms": 5.083774998638546,
+                "ui_ms": 26.86664499924518,
+                "latency_ms": 62.56955199933145
+            },
+            {
+                "timestamp": 1769454679.11951,
+                "detection_ms": 35.781238999334164,
+                "validation_ms": 0.0581640015298035,
+                "prediction_ms": 11.763220998545876,
+                "ui_ms": 25.125796000793343,
+                "latency_ms": 72.74779100043816
+            },
+            {
+                "timestamp": 1769454679.3164306,
+                "detection_ms": 54.6738720004214,
+                "validation_ms": 0.10495900096429978,
+                "prediction_ms": 7.16800299960596,
+                "ui_ms": 48.21260499920754,
+                "latency_ms": 110.1889379988279
+            },
+            {
+                "timestamp": 1769454679.5191045,
+                "detection_ms": 31.747742999868933,
+                "validation_ms": 0.0590170002396917,
+                "prediction_ms": 4.871913000897621,
+                "ui_ms": 26.971235000019078,
+                "latency_ms": 63.6771849985962
+            },
+            {
+                "timestamp": 1769454679.7237506,
+                "detection_ms": 36.331647001134115,
+                "validation_ms": 0.06618299994443078,
+                "prediction_ms": 5.164551001143991,
+                "ui_ms": 25.31023399933474,
+                "latency_ms": 66.90067000090494
+            },
+            {
+                "timestamp": 1769454679.9203484,
+                "detection_ms": 38.85130400158232,
+                "validation_ms": 0.07694099986110814,
+                "prediction_ms": 5.69086699943,
+                "ui_ms": 35.083799999483745,
+                "latency_ms": 79.74761500008754
+            },
+            {
+                "timestamp": 1769454680.1191716,
+                "detection_ms": 30.454269000983913,
+                "validation_ms": 0.058572000853018835,
+                "prediction_ms": 5.3368230001069605,
+                "ui_ms": 26.8189069993241,
+                "latency_ms": 62.6879050014395
+            },
+            {
+                "timestamp": 1769454680.3277774,
+                "detection_ms": 35.608709000371164,
+                "validation_ms": 0.05707299897039775,
+                "prediction_ms": 5.14914400082489,
+                "ui_ms": 25.033947998963413,
+                "latency_ms": 65.86844800040126
+            },
+            {
+                "timestamp": 1769454680.5245693,
+                "detection_ms": 39.36988099849259,
+                "validation_ms": 0.08347900075023063,
+                "prediction_ms": 11.150000998895848,
+                "ui_ms": 36.351499999000225,
+                "latency_ms": 86.99219200025254
+            },
+            {
+                "timestamp": 1769454680.72324,
+                "detection_ms": 30.41738100000657,
+                "validation_ms": 0.05847899956279434,
+                "prediction_ms": 5.681182001353591,
+                "ui_ms": 26.97169900056906,
+                "latency_ms": 63.15600099878793
+            },
+            {
+                "timestamp": 1769454680.9321866,
+                "detection_ms": 35.31005200056825,
+                "validation_ms": 0.05899800089537166,
+                "prediction_ms": 5.029019001085544,
+                "ui_ms": 25.208682998709264,
+                "latency_ms": 65.67943499976536
+            },
+            {
+                "timestamp": 1769454681.128551,
+                "detection_ms": 38.71455199987395,
+                "validation_ms": 0.08197799979825504,
+                "prediction_ms": 11.690372999510146,
+                "ui_ms": 35.16772500006482,
+                "latency_ms": 85.681497999758
+            },
+            {
+                "timestamp": 1769454681.3273265,
+                "detection_ms": 31.311648999690078,
+                "validation_ms": 0.05959000009170268,
+                "prediction_ms": 5.565148998357472,
+                "ui_ms": 26.72441200047615,
+                "latency_ms": 63.6784849994001
+            },
+            {
+                "timestamp": 1769454681.5321581,
+                "detection_ms": 35.77850200053945,
+                "validation_ms": 0.07512699994549621,
+                "prediction_ms": 5.191587000808795,
+                "ui_ms": 24.90428700002667,
+                "latency_ms": 65.9771880000335
+            },
+            {
+                "timestamp": 1769454681.7326815,
+                "detection_ms": 38.90397199938889,
+                "validation_ms": 0.07831200127839111,
+                "prediction_ms": 5.158496000149171,
+                "ui_ms": 35.55889800009027,
+                "latency_ms": 79.73252800002228
+            },
+            {
+                "timestamp": 1769454681.931936,
+                "detection_ms": 30.098689998339978,
+                "validation_ms": 0.05884999882255215,
+                "prediction_ms": 5.677387000105227,
+                "ui_ms": 26.856684999074787,
+                "latency_ms": 62.7178869999625
+            },
+            {
+                "timestamp": 1769454682.1359506,
+                "detection_ms": 35.783633000392,
+                "validation_ms": 0.05986900032439735,
+                "prediction_ms": 7.494121999116032,
+                "ui_ms": 25.148520999209723,
+                "latency_ms": 68.52155099841184
+            },
+            {
+                "timestamp": 1769454682.3329825,
+                "detection_ms": 40.46099600054731,
+                "validation_ms": 0.08460800017928705,
+                "prediction_ms": 0,
+                "ui_ms": 45.777061000990216,
+                "latency_ms": 86.34692399937194
+            },
+            {
+                "timestamp": 1769454682.53574,
+                "detection_ms": 36.75198899873067,
+                "validation_ms": 0.06123899947851896,
+                "prediction_ms": 0,
+                "ui_ms": 42.010037001091405,
+                "latency_ms": 78.83678299913299
+            },
+            {
+                "timestamp": 1769454682.740257,
+                "detection_ms": 36.85787499853177,
+                "validation_ms": 0.05886799954168964,
+                "prediction_ms": 0,
+                "ui_ms": 40.25692799950775,
+                "latency_ms": 77.188170998852
+            },
+            {
+                "timestamp": 1769454682.9368145,
+                "detection_ms": 40.66850799972599,
+                "validation_ms": 0.08279299981950317,
+                "prediction_ms": 0,
+                "ui_ms": 45.887058000516845,
+                "latency_ms": 86.6611000001285
+            },
+            {
+                "timestamp": 1769454683.139385,
+                "detection_ms": 36.536998000883614,
+                "validation_ms": 0.059664998843800277,
+                "prediction_ms": 0,
+                "ui_ms": 41.817915998763056,
+                "latency_ms": 78.44517000012274
+            },
+            {
+                "timestamp": 1769454683.344154,
+                "detection_ms": 37.95489500043914,
+                "validation_ms": 0.05718399916077033,
+                "prediction_ms": 0,
+                "ui_ms": 40.33216900097614,
+                "latency_ms": 78.3588949998375
+            },
+            {
+                "timestamp": 1769454683.5407774,
+                "detection_ms": 39.8081679995812,
+                "validation_ms": 0.08333100049640052,
+                "prediction_ms": 0,
+                "ui_ms": 46.02033300034236,
+                "latency_ms": 85.93492199906905
+            },
+            {
+                "timestamp": 1769454683.738865,
+                "detection_ms": 35.86839000126929,
+                "validation_ms": 0.05892400076845661,
+                "prediction_ms": 0,
+                "ui_ms": 41.964818999986164,
+                "latency_ms": 77.90531700084102
+            },
+            {
+                "timestamp": 1769454683.9477723,
+                "detection_ms": 37.03427799882775,
+                "validation_ms": 0.06005400064168498,
+                "prediction_ms": 0,
+                "ui_ms": 40.648714999406366,
+                "latency_ms": 77.75785999911022
+            },
+            {
+                "timestamp": 1769454684.144044,
+                "detection_ms": 39.44912599945383,
+                "validation_ms": 0.07990499943844043,
+                "prediction_ms": 0,
+                "ui_ms": 46.217088000048534,
+                "latency_ms": 85.78411599955871
+            },
+            {
+                "timestamp": 1769454684.3429646,
+                "detection_ms": 36.987928999224096,
+                "validation_ms": 0.059627000155160204,
+                "prediction_ms": 0,
+                "ui_ms": 42.08972299966263,
+                "latency_ms": 79.15239000067231
+            },
+            {
+                "timestamp": 1769454684.5734684,
+                "detection_ms": 50.34371100009594,
+                "validation_ms": 0,
+                "prediction_ms": 0,
+                "ui_ms": 7.356461001108983,
+                "latency_ms": 57.71526399985305
+            },
+            {
+                "timestamp": 1769454684.748066,
+                "detection_ms": 52.83607199999096,
+                "validation_ms": 0.0832010009617079,
+                "prediction_ms": 0,
+                "ui_ms": 45.451185998899746,
+                "latency_ms": 98.39334800017241
+            },
+            {
+                "timestamp": 1769454684.946943,
+                "detection_ms": 37.68170199873566,
+                "validation_ms": 0.06220199975359719,
+                "prediction_ms": 0,
+                "ui_ms": 40.4592960003356,
+                "latency_ms": 78.2187189997785
+            },
+            {
+                "timestamp": 1769454685.1516984,
+                "detection_ms": 36.444687999392045,
+                "validation_ms": 0.0940529989748029,
+                "prediction_ms": 0,
+                "ui_ms": 41.32999000103155,
+                "latency_ms": 77.90071299859846
+            },
+            {
+                "timestamp": 1769454685.352234,
+                "detection_ms": 40.96633600056521,
+                "validation_ms": 0.08327500108862296,
+                "prediction_ms": 0,
+                "ui_ms": 47.31601499952376,
+                "latency_ms": 88.38946000105352
+            },
+            {
+                "timestamp": 1769454685.5510433,
+                "detection_ms": 36.93256100086728,
+                "validation_ms": 0.05907199920329731,
+                "prediction_ms": 0,
+                "ui_ms": 43.16146800010756,
+                "latency_ms": 80.16723099899536
+            },
+            {
+                "timestamp": 1769454685.7557693,
+                "detection_ms": 37.01302199988277,
+                "validation_ms": 0.06097900040913373,
+                "prediction_ms": 0,
+                "ui_ms": 41.509003000101075,
+                "latency_ms": 78.59813399954874
+            },
+            {
+                "timestamp": 1769454685.956161,
+                "detection_ms": 41.772253998715314,
+                "validation_ms": 0.08338599946000613,
+                "prediction_ms": 0,
+                "ui_ms": 47.851647999777924,
+                "latency_ms": 89.72941699903458
+            },
+            {
+                "timestamp": 1769454686.155036,
+                "detection_ms": 37.02770800009603,
+                "validation_ms": 0.05931300074735191,
+                "prediction_ms": 0,
+                "ui_ms": 42.83877600028063,
+                "latency_ms": 79.95725900036632
+            },
+            {
+                "timestamp": 1769454686.3597267,
+                "detection_ms": 36.53707600096823,
+                "validation_ms": 0.05910900108574424,
+                "prediction_ms": 0,
+                "ui_ms": 41.01787299987336,
+                "latency_ms": 77.62870599981397
+            },
+            {
+                "timestamp": 1769454686.5564764,
+                "detection_ms": 40.432150999549776,
+                "validation_ms": 0.08260899994638748,
+                "prediction_ms": 0,
+                "ui_ms": 46.617447998869466,
+                "latency_ms": 87.15589299936255
+            },
+            {
+                "timestamp": 1769454686.7590473,
+                "detection_ms": 35.896968000088236,
+                "validation_ms": 0,
+                "prediction_ms": 0,
+                "ui_ms": 8.88372699955653,
+                "latency_ms": 44.794044999434846
+            },
+            {
+                "timestamp": 1769454686.9640138,
+                "detection_ms": 48.52755299907585,
+                "validation_ms": 0.10905199997068848,
+                "prediction_ms": 0,
+                "ui_ms": 41.414454999539885,
+                "latency_ms": 90.06829899954027
+            },
+            {
+                "timestamp": 1769454687.1604185,
+                "detection_ms": 38.89562899894372,
+                "validation_ms": 0.0804230003268458,
+                "prediction_ms": 0,
+                "ui_ms": 46.07398600091983,
+                "latency_ms": 85.08931500000472
+            },
+            {
+                "timestamp": 1769454687.359246,
+                "detection_ms": 35.74817799926677,
+                "validation_ms": 0.05861000136064831,
+                "prediction_ms": 0,
+                "ui_ms": 42.35383100058243,
+                "latency_ms": 78.1756359992869
+            },
+            {
+                "timestamp": 1769454687.567972,
+                "detection_ms": 36.389804001373705,
+                "validation_ms": 0.058665000324253924,
+                "prediction_ms": 0,
+                "ui_ms": 41.18712899980892,
+                "latency_ms": 77.65135599947826
+            },
+            {
+                "timestamp": 1769454687.7645211,
+                "detection_ms": 39.4173349995981,
+                "validation_ms": 0.07829399874026421,
+                "prediction_ms": 0,
+                "ui_ms": 46.463622000374016,
+                "latency_ms": 85.98176799932844
+            },
+            {
+                "timestamp": 1769454687.9633794,
+                "detection_ms": 35.37391200006823,
+                "validation_ms": 0.06136800038802903,
+                "prediction_ms": 0,
+                "ui_ms": 42.94579399902432,
+                "latency_ms": 78.39718500144954
+            },
+            {
+                "timestamp": 1769454688.171872,
+                "detection_ms": 36.69360999992932,
+                "validation_ms": 0.06175700036692433,
+                "prediction_ms": 0,
+                "ui_ms": 41.188000001056935,
+                "latency_ms": 77.97675599977083
+            },
+            {
+                "timestamp": 1769454688.368526,
+                "detection_ms": 41.544376999809174,
+                "validation_ms": 0.08275700020021759,
+                "prediction_ms": 0,
+                "ui_ms": 45.98525000074005,
+                "latency_ms": 87.64351299942064
+            },
+            {
+                "timestamp": 1769454688.5673451,
+                "detection_ms": 37.11089299940795,
+                "validation_ms": 0.05931300074735191,
+                "prediction_ms": 0,
+                "ui_ms": 42.252686998836,
+                "latency_ms": 79.43772699945839
+            },
+            {
+                "timestamp": 1769454688.7721636,
+                "detection_ms": 37.58498900060658,
+                "validation_ms": 0.06023899913998321,
+                "prediction_ms": 0,
+                "ui_ms": 40.462060998834204,
+                "latency_ms": 78.1231580003805
+            },
+            {
+                "timestamp": 1769454688.972543,
+                "detection_ms": 40.71305300021777,
+                "validation_ms": 0.08434899973508436,
+                "prediction_ms": 0,
+                "ui_ms": 45.95797500041954,
+                "latency_ms": 86.77922800052329
+            },
+            {
+                "timestamp": 1769454689.1713037,
+                "detection_ms": 37.0106760001363,
+                "validation_ms": 0.06023899913998321,
+                "prediction_ms": 0,
+                "ui_ms": 42.726433001007535,
+                "latency_ms": 79.81269899937615
+            },
+            {
+                "timestamp": 1769454689.3761177,
+                "detection_ms": 37.73433800051862,
+                "validation_ms": 0.05907300146645866,
+                "prediction_ms": 0,
+                "ui_ms": 40.34967700135894,
+                "latency_ms": 78.1745670010423
+            },
+            {
+                "timestamp": 1769454689.5766685,
+                "detection_ms": 40.82625400042161,
+                "validation_ms": 0.08445999992545694,
+                "prediction_ms": 0,
+                "ui_ms": 69.67695700041077,
+                "latency_ms": 110.6136520011205
+            },
+            {
+                "timestamp": 1769454689.7757857,
+                "detection_ms": 37.453716999152675,
+                "validation_ms": 0.05907299964746926,
+                "prediction_ms": 0,
+                "ui_ms": 41.68139299872564,
+                "latency_ms": 79.216403000828
+            },
+            {
+                "timestamp": 1769454689.9800847,
+                "detection_ms": 36.23894199881761,
+                "validation_ms": 0.058738000006997027,
+                "prediction_ms": 0,
+                "ui_ms": 39.96332200040342,
+                "latency_ms": 76.27577899984317
+            },
+            {
+                "timestamp": 1769454690.1768131,
+                "detection_ms": 39.44572699947457,
+                "validation_ms": 0.0817379986983724,
+                "prediction_ms": 7.025529999737046,
+                "ui_ms": 35.43156200066733,
+                "latency_ms": 82.01792699946964
+            },
+            {
+                "timestamp": 1769454690.3795044,
+                "detection_ms": 30.446114000369562,
+                "validation_ms": 0.05849799890711438,
+                "prediction_ms": 0,
+                "ui_ms": 41.77568799968867,
+                "latency_ms": 72.31320699975186
+            },
+            {
+                "timestamp": 1769454690.5843103,
+                "detection_ms": 35.51754100044491,
+                "validation_ms": 0.05873900045116898,
+                "prediction_ms": 0,
+                "ui_ms": 39.998968999498175,
+                "latency_ms": 75.59015500009991
+            },
+            {
+                "timestamp": 1769454690.7808247,
+                "detection_ms": 39.215494000018225,
+                "validation_ms": 0.08051599979808088,
+                "prediction_ms": 14.863124999465072,
+                "ui_ms": 35.2924750004604,
+                "latency_ms": 89.47744200122543
+            },
+            {
+                "timestamp": 1769454690.9796262,
+                "detection_ms": 31.476543001190294,
+                "validation_ms": 0.05842399878019933,
+                "prediction_ms": 8.98376199984341,
+                "ui_ms": 27.022190999559825,
+                "latency_ms": 67.56608599971514
+            },
+            {
+                "timestamp": 1769454691.1881878,
+                "detection_ms": 35.433379000096465,
+                "validation_ms": 0.059404999774415046,
+                "prediction_ms": 7.637528000486782,
+                "ui_ms": 24.76752300026419,
+                "latency_ms": 67.92285300070944
+            },
+            {
+                "timestamp": 1769454691.38491,
+                "detection_ms": 40.0140059991827,
+                "validation_ms": 0.09720100024424028,
+                "prediction_ms": 5.1432389991532546,
+                "ui_ms": 35.24023600039072,
+                "latency_ms": 80.54308899954776
+            },
+            {
+                "timestamp": 1769454691.5836658,
+                "detection_ms": 29.811747999701765,
+                "validation_ms": 0.057054001445067115,
+                "prediction_ms": 5.0960369990207255,
+                "ui_ms": 26.959822000208078,
+                "latency_ms": 61.943344999235705
+            },
+            {
+                "timestamp": 1769454691.7924647,
+                "detection_ms": 35.28467899923271,
+                "validation_ms": 0.05846099884365685,
+                "prediction_ms": 5.050816000220948,
+                "ui_ms": 25.15508499891439,
+                "latency_ms": 65.56781899962516
+            },
+            {
+                "timestamp": 1769454691.988872,
+                "detection_ms": 39.40708299887774,
+                "validation_ms": 0.08077599886746611,
+                "prediction_ms": 15.445977000126732,
+                "ui_ms": 35.36249300123018,
+                "latency_ms": 90.3308829983871
+            },
+            {
+                "timestamp": 1769454692.1876986,
+                "detection_ms": 30.57301999979245,
+                "validation_ms": 0.05668399899150245,
+                "prediction_ms": 5.020114000217291,
+                "ui_ms": 26.806828998815035,
+                "latency_ms": 62.4811999987287
+            },
+            {
+                "timestamp": 1769454692.3923671,
+                "detection_ms": 36.7342080007802,
+                "validation_ms": 0.10338500032958109,
+                "prediction_ms": 0,
+                "ui_ms": 40.434365000692196,
+                "latency_ms": 77.30391900076938
+            },
+            {
+                "timestamp": 1769454692.5930464,
+                "detection_ms": 39.37415800101007,
+                "validation_ms": 0.07999699846550357,
+                "prediction_ms": 0,
+                "ui_ms": 45.91761200026667,
+                "latency_ms": 85.39417400061211
+            },
+            {
+                "timestamp": 1769454692.7917802,
+                "detection_ms": 35.6239850007114,
+                "validation_ms": 0.05992399928800296,
+                "prediction_ms": 0,
+                "ui_ms": 41.981925000072806,
+                "latency_ms": 77.67885199973534
+            },
+            {
+                "timestamp": 1769454692.9965515,
+                "detection_ms": 36.526234000120894,
+                "validation_ms": 0.05931300074735191,
+                "prediction_ms": 0,
+                "ui_ms": 40.57699099939782,
+                "latency_ms": 77.17794500058517
+            },
+            {
+                "timestamp": 1769454693.1970363,
+                "detection_ms": 40.14637500040408,
+                "validation_ms": 0.11984800039499532,
+                "prediction_ms": 10.04976500007615,
+                "ui_ms": 36.86740800003463,
+                "latency_ms": 87.21641400006774
+            },
+            {
+                "timestamp": 1769454693.3957999,
+                "detection_ms": 30.546967000191216,
+                "validation_ms": 0.059312998928362504,
+                "prediction_ms": 11.949887000810122,
+                "ui_ms": 28.30059600091772,
+                "latency_ms": 70.89368800006923
+            },
+            {
+                "timestamp": 1769454693.6008604,
+                "detection_ms": 36.18135699980485,
+                "validation_ms": 0.05803500062029343,
+                "prediction_ms": 5.437951998828794,
+                "ui_ms": 26.096870999026578,
+                "latency_ms": 67.79262200143421
+            },
+            {
+                "timestamp": 1769454693.7974973,
+                "detection_ms": 41.03441999905044,
+                "validation_ms": 0.08201600030588452,
+                "prediction_ms": 11.923240999749396,
+                "ui_ms": 36.72378299961565,
+                "latency_ms": 89.78938600012043
+            },
+            {
+                "timestamp": 1769454693.9998274,
+                "detection_ms": 30.754830999285332,
+                "validation_ms": 0.05822000093758106,
+                "prediction_ms": 8.745752000322682,
+                "ui_ms": 26.725424999312963,
+                "latency_ms": 66.30989499899442
+            },
+            {
+                "timestamp": 1769454694.204537,
+                "detection_ms": 36.215265001374064,
+                "validation_ms": 0.05948000034550205,
+                "prediction_ms": 13.488708000295446,
+                "ui_ms": 25.177956998959417,
+                "latency_ms": 74.96833499862987
+            },
+            {
+                "timestamp": 1769454694.401276,
+                "detection_ms": 39.31316400121432,
+                "validation_ms": 0.08170100045390427,
+                "prediction_ms": 5.057483998825774,
+                "ui_ms": 35.969142998510506,
+                "latency_ms": 80.47287800036429
+            },
+            {
+                "timestamp": 1769454694.6002471,
+                "detection_ms": 30.87743799915188,
+                "validation_ms": 0.05899800089537166,
+                "prediction_ms": 25.301083000158542,
+                "ui_ms": 26.599243999953615,
+                "latency_ms": 82.85692999925232
+            },
+            {
+                "timestamp": 1769454694.8298197,
+                "detection_ms": 51.53048699867213,
+                "validation_ms": 0.10625599861668888,
+                "prediction_ms": 7.167044999732752,
+                "ui_ms": 36.185820999889984,
+                "latency_ms": 95.01468199960073
+            },
+            {
+                "timestamp": 1769454695.0052118,
+                "detection_ms": 40.23415399933583,
+                "validation_ms": 0.08625599912193138,
+                "prediction_ms": 5.1180179998482345,
+                "ui_ms": 35.38288599884254,
+                "latency_ms": 80.87223900110985
+            },
+            {
+                "timestamp": 1769454695.2039633,
+                "detection_ms": 31.725208998977905,
+                "validation_ms": 0.05822000093758106,
+                "prediction_ms": 5.017298999518971,
+                "ui_ms": 26.79323900156305,
+                "latency_ms": 63.620355000239215
+            },
+            {
+                "timestamp": 1769454695.4127388,
+                "detection_ms": 38.100686000689166,
+                "validation_ms": 0.0590170002396917,
+                "prediction_ms": 5.010040998968179,
+                "ui_ms": 25.18634700027178,
+                "latency_ms": 68.39419999960228
+            },
+            {
+                "timestamp": 1769454695.6093338,
+                "detection_ms": 40.05847400003404,
+                "validation_ms": 0.08707100096216891,
+                "prediction_ms": 9.829327998886583,
+                "ui_ms": 35.20283600119001,
+                "latency_ms": 85.20343000054709
+            },
+            {
+                "timestamp": 1769454695.8081367,
+                "detection_ms": 31.649673999709194,
+                "validation_ms": 0.05905299985897727,
+                "prediction_ms": 11.758783999539446,
+                "ui_ms": 27.00413900129206,
+                "latency_ms": 70.49233500038099
+            },
+            {
+                "timestamp": 1769454696.0128756,
+                "detection_ms": 36.95635399890307,
+                "validation_ms": 0.06277500142459758,
+                "prediction_ms": 5.684556001142482,
+                "ui_ms": 25.08510999905411,
+                "latency_ms": 67.81444400075998
+            },
+            {
+                "timestamp": 1769454696.2133112,
+                "detection_ms": 39.59063900038018,
+                "validation_ms": 0.08542300020053517,
+                "prediction_ms": 5.170517000806285,
+                "ui_ms": 35.615693999716314,
+                "latency_ms": 80.49704999939422
+            },
+            {
+                "timestamp": 1769454696.4121158,
+                "detection_ms": 31.721486999231274,
+                "validation_ms": 0.05853500078956131,
+                "prediction_ms": 5.055169000115711,
+                "ui_ms": 26.793351000378607,
+                "latency_ms": 63.65267200089875
+            },
+            {
+                "timestamp": 1769454696.616867,
+                "detection_ms": 36.15189899937832,
+                "validation_ms": 0.06066499918233603,
+                "prediction_ms": 5.121611000504345,
+                "ui_ms": 25.077443999180105,
+                "latency_ms": 66.44682099977217
+            },
+            {
+                "timestamp": 1769454696.8173976,
+                "detection_ms": 39.31438800100295,
+                "validation_ms": 0.08547899960831273,
+                "prediction_ms": 5.056725000031292,
+                "ui_ms": 35.63073100121983,
+                "latency_ms": 80.11600699865085
+            },
+            {
+                "timestamp": 1769454697.0162373,
+                "detection_ms": 30.684522000228753,
+                "validation_ms": 0.06109099922468886,
+                "prediction_ms": 5.0613910007086815,
+                "ui_ms": 27.053955000155838,
+                "latency_ms": 62.91975299973274
+            },
+            {
+                "timestamp": 1769454697.2209594,
+                "detection_ms": 35.847522000040044,
+                "validation_ms": 0.05849799890711438,
+                "prediction_ms": 5.065039000328397,
+                "ui_ms": 25.119850999544724,
+                "latency_ms": 66.11792699914076
+            },
+            {
+                "timestamp": 1769454697.4175544,
+                "detection_ms": 39.59002899864572,
+                "validation_ms": 0.07979399924806785,
+                "prediction_ms": 5.111129999932018,
+                "ui_ms": 35.76004300157365,
+                "latency_ms": 80.57375400130695
+            },
+            {
+                "timestamp": 1769454697.6201942,
+                "detection_ms": 30.496862000291003,
+                "validation_ms": 0.0561460001335945,
+                "prediction_ms": 5.009319000237156,
+                "ui_ms": 26.761353999972926,
+                "latency_ms": 62.44497300031071
+            },
+            {
+                "timestamp": 1769454697.8250134,
+                "detection_ms": 36.00801599895931,
+                "validation_ms": 0.057979999837698415,
+                "prediction_ms": 5.158092000783654,
+                "ui_ms": 25.00089199929789,
+                "latency_ms": 66.2447560007422
+            },
+            {
+                "timestamp": 1769454698.0215821,
+                "detection_ms": 39.93320499830588,
+                "validation_ms": 0.07912699948064983,
+                "prediction_ms": 5.97091799863847,
+                "ui_ms": 35.283874998640385,
+                "latency_ms": 81.2954559987702
+            },
+            {
+                "timestamp": 1769454698.2203789,
+                "detection_ms": 30.92073799962236,
+                "validation_ms": 0.05875799979548901,
+                "prediction_ms": 5.090038999696844,
+                "ui_ms": 26.638172999810195,
+                "latency_ms": 62.73285399947781
+            },
+            {
+                "timestamp": 1769454698.4291,
+                "detection_ms": 36.182882000503014,
+                "validation_ms": 0.05792400042992085,
+                "prediction_ms": 14.685598000141908,
+                "ui_ms": 25.06042799905117,
+                "latency_ms": 76.01321999936772
+            },
+            {
+                "timestamp": 1769454698.6255953,
+                "detection_ms": 40.01342400079011,
+                "validation_ms": 0.08118199912132695,
+                "prediction_ms": 5.727461999413208,
+                "ui_ms": 35.767635999945924,
+                "latency_ms": 81.63418600088335
+            },
+            {
+                "timestamp": 1769454698.8244624,
+                "detection_ms": 30.44101200066507,
+                "validation_ms": 0.05798000165668782,
+                "prediction_ms": 8.322581999891554,
+                "ui_ms": 26.857479999307543,
+                "latency_ms": 65.69749899972521
+            },
+            {
+                "timestamp": 1769454699.0331738,
+                "detection_ms": 37.652355000318494,
+                "validation_ms": 0.05773799966846127,
+                "prediction_ms": 15.328170000429964,
+                "ui_ms": 24.850955000147223,
+                "latency_ms": 77.90693899914913
+            },
+            {
+                "timestamp": 1769454699.229747,
+                "detection_ms": 39.422481999281445,
+                "validation_ms": 0.08164500104612671,
+                "prediction_ms": 10.019415998613113,
+                "ui_ms": 35.36461399926338,
+                "latency_ms": 84.92302700142318
+            },
+            {
+                "timestamp": 1769454699.4284782,
+                "detection_ms": 31.587514000420924,
+                "validation_ms": 0.05699800021830015,
+                "prediction_ms": 5.0826139995479025,
+                "ui_ms": 26.732616001027054,
+                "latency_ms": 63.4831839997787
+            },
+            {
+                "timestamp": 1769454699.6332982,
+                "detection_ms": 35.60168000149133,
+                "validation_ms": 0.05820200021844357,
+                "prediction_ms": 6.466085998908966,
+                "ui_ms": 25.255237000237685,
+                "latency_ms": 67.41794499976095
+            },
+            {
+                "timestamp": 1769454699.8339164,
+                "detection_ms": 39.67143699992448,
+                "validation_ms": 0.08036700091906823,
+                "prediction_ms": 5.29601400012325,
+                "ui_ms": 35.6032170002436,
+                "latency_ms": 80.67997899888724
+            },
+            {
+                "timestamp": 1769454700.0529985,
+                "detection_ms": 49.456307000582456,
+                "validation_ms": 0.09601599958841689,
+                "prediction_ms": 8.276509999632253,
+                "ui_ms": 32.358713000576245,
+                "latency_ms": 90.21380400008638
+            },
+            {
+                "timestamp": 1769454700.2375095,
+                "detection_ms": 37.12927999913518,
+                "validation_ms": 0.056924000091385096,
+                "prediction_ms": 5.1304450007592095,
+                "ui_ms": 25.42843700030062,
+                "latency_ms": 67.77001100090274
+            },
+            {
+                "timestamp": 1769454700.4376898,
+                "detection_ms": 40.16133000004629,
+                "validation_ms": 0.0818860007711919,
+                "prediction_ms": 5.21096100055729,
+                "ui_ms": 35.47324099963589,
+                "latency_ms": 80.95906599919545
+            },
+            {
+                "timestamp": 1769454700.636692,
+                "detection_ms": 30.909036999219097,
+                "validation_ms": 0.06005300019751303,
+                "prediction_ms": 14.630435000071884,
+                "ui_ms": 28.17036700071185,
+                "latency_ms": 73.80562999969698
+            },
+            {
+                "timestamp": 1769454700.8414264,
+                "detection_ms": 37.22418500001368,
+                "validation_ms": 0.058665000324253924,
+                "prediction_ms": 11.697955000272486,
+                "ui_ms": 25.20927700061293,
+                "latency_ms": 74.20884000021033
+            },
+            {
+                "timestamp": 1769454701.037893,
+                "detection_ms": 39.80245500133606,
+                "validation_ms": 0.07938599992485251,
+                "prediction_ms": 5.867940000825911,
+                "ui_ms": 35.30104499986919,
+                "latency_ms": 81.07741599997098
+            },
+            {
+                "timestamp": 1769454701.2406108,
+                "detection_ms": 31.33361700020032,
+                "validation_ms": 0.05870200038771145,
+                "prediction_ms": 5.206628000451019,
+                "ui_ms": 26.760024000395788,
+                "latency_ms": 63.384730001416756
+            },
+            {
+                "timestamp": 1769454701.4455748,
+                "detection_ms": 35.98398500071198,
+                "validation_ms": 0.05971999962639529,
+                "prediction_ms": 5.849791999935405,
+                "ui_ms": 25.139483999737422,
+                "latency_ms": 67.05924000016239
+            },
+            {
+                "timestamp": 1769454701.641952,
+                "detection_ms": 39.58868399968196,
+                "validation_ms": 0.07834999996703118,
+                "prediction_ms": 5.1013720003538765,
+                "ui_ms": 36.000133000925416,
+                "latency_ms": 80.81514799960132
+            },
+            {
+                "timestamp": 1769454701.8447733,
+                "detection_ms": 31.854286000452703,
+                "validation_ms": 0.06010899960529059,
+                "prediction_ms": 9.130520000326214,
+                "ui_ms": 27.47803799866233,
+                "latency_ms": 68.54435900095268
+            },
+            {
+                "timestamp": 1769454702.049439,
+                "detection_ms": 36.305143001300166,
+                "validation_ms": 0.058812998759094626,
+                "prediction_ms": 5.675521000739536,
+                "ui_ms": 25.52234200084058,
+                "latency_ms": 67.5815220001823
+            },
+            {
+                "timestamp": 1769454702.2460601,
+                "detection_ms": 40.59219000009762,
+                "validation_ms": 0.08107099893095437,
+                "prediction_ms": 8.61129599979904,
+                "ui_ms": 35.51864900146029,
+                "latency_ms": 84.83594700010144
+            },
+            {
+                "timestamp": 1769454702.4449248,
+                "detection_ms": 30.47838599923125,
+                "validation_ms": 0.058943000112776645,
+                "prediction_ms": 14.70135799900163,
+                "ui_ms": 26.683563999540638,
+                "latency_ms": 71.94817699928535
+            },
+            {
+                "timestamp": 1769454702.6534472,
+                "detection_ms": 36.068613999304944,
+                "validation_ms": 0.06012700032442808,
+                "prediction_ms": 5.035911999584641,
+                "ui_ms": 24.92938000068534,
+                "latency_ms": 66.1320320014056
+            },
+            {
+                "timestamp": 1769454702.8501163,
+                "detection_ms": 39.35217399885005,
+                "validation_ms": 0.08105300003080629,
+                "prediction_ms": 12.826512000174262,
+                "ui_ms": 35.43102299954626,
+                "latency_ms": 87.71883499866817
+            },
+            {
+                "timestamp": 1769454703.0489757,
+                "detection_ms": 31.51746500043373,
+                "validation_ms": 0.06003499947837554,
+                "prediction_ms": 13.679114999831654,
+                "ui_ms": 26.752822999696946,
+                "latency_ms": 72.0280300010927
+            },
+            {
+                "timestamp": 1769454703.2535176,
+                "detection_ms": 37.81242900004145,
+                "validation_ms": 0.06042400127626024,
+                "prediction_ms": 8.431173000644776,
+                "ui_ms": 25.208168999597547,
+                "latency_ms": 71.54187800006184
+            },
+            {
+                "timestamp": 1769454703.4541702,
+                "detection_ms": 39.59929799930251,
+                "validation_ms": 0.08218299990403466,
+                "prediction_ms": 5.178814999453607,
+                "ui_ms": 35.0885539992305,
+                "latency_ms": 79.97988399984024
+            },
+            {
+                "timestamp": 1769454703.6529236,
+                "detection_ms": 30.237154998758342,
+                "validation_ms": 0.05966500066278968,
+                "prediction_ms": 5.188961999010644,
+                "ui_ms": 28.354048999972292,
+                "latency_ms": 63.86490400109324
+            },
+            {
+                "timestamp": 1769454703.8575678,
+                "detection_ms": 35.631536000437336,
+                "validation_ms": 0.06066499918233603,
+                "prediction_ms": 12.96704500055057,
+                "ui_ms": 25.29035099905741,
+                "latency_ms": 73.98672599993006
+            },
+            {
+                "timestamp": 1769454704.0582151,
+                "detection_ms": 39.33056699861481,
+                "validation_ms": 0.08312700083479285,
+                "prediction_ms": 15.424465998876258,
+                "ui_ms": 35.365584000828676,
+                "latency_ms": 90.23089000038453
+            },
+            {
+                "timestamp": 1769454704.2570608,
+                "detection_ms": 30.352134001077502,
+                "validation_ms": 0.0595540004724171,
+                "prediction_ms": 5.212314001255436,
+                "ui_ms": 27.424894000432687,
+                "latency_ms": 63.06839500030037
+            },
+            {
+                "timestamp": 1769454704.461641,
+                "detection_ms": 35.79882799931511,
+                "validation_ms": 0.060369000493665226,
+                "prediction_ms": 5.161037999641849,
+                "ui_ms": 25.16996700069285,
+                "latency_ms": 66.21499700122513
+            },
+            {
+                "timestamp": 1769454704.65834,
+                "detection_ms": 39.615075998881366,
+                "validation_ms": 0.07940499926917255,
+                "prediction_ms": 5.086946999654174,
+                "ui_ms": 35.14842399999907,
+                "latency_ms": 79.96181399903435
+            },
+            {
+                "timestamp": 1769454704.8611548,
+                "detection_ms": 30.178602000887622,
+                "validation_ms": 0.05762799992226064,
+                "prediction_ms": 5.229794000115362,
+                "ui_ms": 26.922207000097842,
+                "latency_ms": 62.42389699946216
+            },
+            {
+                "timestamp": 1769454705.0658796,
+                "detection_ms": 35.68159300084517,
+                "validation_ms": 0.0561460001335945,
+                "prediction_ms": 12.60353900033806,
+                "ui_ms": 33.63553000053798,
+                "latency_ms": 81.99588100069377
+            },
+            {
+                "timestamp": 1769454705.2746449,
+                "detection_ms": 50.7288860007975,
+                "validation_ms": 0.10340399967390113,
+                "prediction_ms": 6.258409999645664,
+                "ui_ms": 35.60839199963084,
+                "latency_ms": 92.72925799996301
+            },
+            {
+                "timestamp": 1769454705.4651859,
+                "detection_ms": 30.153715000778902,
+                "validation_ms": 0.06055300036678091,
+                "prediction_ms": 5.20255400078895,
+                "ui_ms": 26.90219000032812,
+                "latency_ms": 62.34479000158899
+            },
+            {
+                "timestamp": 1769454705.6697123,
+                "detection_ms": 36.160300000119605,
+                "validation_ms": 0.0587760005146265,
+                "prediction_ms": 5.028820000006817,
+                "ui_ms": 24.99165900007938,
+                "latency_ms": 66.26431199947547
+            },
+            {
+                "timestamp": 1769454705.8665102,
+                "detection_ms": 39.67068699967058,
+                "validation_ms": 0.07814499986125156,
+                "prediction_ms": 16.212257000006502,
+                "ui_ms": 35.05750200019975,
+                "latency_ms": 91.06377500029339
+            },
+            {
+                "timestamp": 1769454706.0652368,
+                "detection_ms": 31.0732799989637,
+                "validation_ms": 0.06029399992257822,
+                "prediction_ms": 5.075374001535238,
+                "ui_ms": 26.630793001459097,
+                "latency_ms": 62.85927700082539
+            },
+            {
+                "timestamp": 1769454706.2739305,
+                "detection_ms": 35.64291099974071,
+                "validation_ms": 0.05988700104353484,
+                "prediction_ms": 5.10354000107327,
+                "ui_ms": 25.09061999990081,
+                "latency_ms": 65.91630799994164
+            },
+            {
+                "timestamp": 1769454706.4704118,
+                "detection_ms": 39.2758310008503,
+                "validation_ms": 0.07999699846550357,
+                "prediction_ms": 15.323007999541005,
+                "ui_ms": 35.361790000024484,
+                "latency_ms": 90.07342099903326
+            },
+            {
+                "timestamp": 1769454706.6693256,
+                "detection_ms": 30.507630999636604,
+                "validation_ms": 0.05966400021861773,
+                "prediction_ms": 5.261664000499877,
+                "ui_ms": 26.93537499908416,
+                "latency_ms": 62.78974199994991
+            },
+            {
+                "timestamp": 1769454706.8739042,
+                "detection_ms": 37.02825500113249,
+                "validation_ms": 0.059813000916619785,
+                "prediction_ms": 5.078836999018677,
+                "ui_ms": 25.08652700089442,
+                "latency_ms": 67.29278300008446
+            },
+            {
+                "timestamp": 1769454707.0746312,
+                "detection_ms": 39.64019100021687,
+                "validation_ms": 0.08260899994638748,
+                "prediction_ms": 5.035709000367206,
+                "ui_ms": 35.16366800067772,
+                "latency_ms": 79.94865599903278
+            },
+            {
+                "timestamp": 1769454707.2733643,
+                "detection_ms": 31.059318000188796,
+                "validation_ms": 0.059497999245650135,
+                "prediction_ms": 5.0458749992685625,
+                "ui_ms": 26.62375700128905,
+                "latency_ms": 62.80879900077707
+            },
+            {
+                "timestamp": 1769454707.478091,
+                "detection_ms": 36.17041399957088,
+                "validation_ms": 0.05864600097993389,
+                "prediction_ms": 5.051800999353873,
+                "ui_ms": 25.14234099908208,
+                "latency_ms": 66.45025599937071
+            },
+            {
+                "timestamp": 1769454707.678552,
+                "detection_ms": 39.37360599957174,
+                "validation_ms": 0.07381299838016275,
+                "prediction_ms": 5.051449001257424,
+                "ui_ms": 35.38506800032337,
+                "latency_ms": 79.91482400029781
+            },
+            {
+                "timestamp": 1769454707.877437,
+                "detection_ms": 30.70214499894064,
+                "validation_ms": 0.09299699922848959,
+                "prediction_ms": 5.105188000015914,
+                "ui_ms": 26.898322001216002,
+                "latency_ms": 62.83370500023011
+            },
+            {
+                "timestamp": 1769454708.0820181,
+                "detection_ms": 36.07417700004589,
+                "validation_ms": 0.056349999795202166,
+                "prediction_ms": 5.070040999271441,
+                "ui_ms": 25.34879899940279,
+                "latency_ms": 66.57101400014653
+            },
+            {
+                "timestamp": 1769454708.278759,
+                "detection_ms": 40.30392999993637,
+                "validation_ms": 0.08218299990403466,
+                "prediction_ms": 5.203129998335498,
+                "ui_ms": 35.34484799820348,
+                "latency_ms": 80.95986800071842
+            },
+            {
+                "timestamp": 1769454708.4814746,
+                "detection_ms": 30.81584500068857,
+                "validation_ms": 0.05920200055697933,
+                "prediction_ms": 5.1002260006498545,
+                "ui_ms": 26.974653999786824,
+                "latency_ms": 62.97511100092379
+            },
+            {
+                "timestamp": 1769454708.686227,
+                "detection_ms": 36.17769300035434,
+                "validation_ms": 0.05899799907638226,
+                "prediction_ms": 5.052763999628951,
+                "ui_ms": 25.067677999686566,
+                "latency_ms": 66.38396400012425
+            },
+            {
+                "timestamp": 1769454708.882782,
+                "detection_ms": 38.756109001042205,
+                "validation_ms": 0.07992299833858851,
+                "prediction_ms": 5.043615999966278,
+                "ui_ms": 35.41003200007253,
+                "latency_ms": 79.33619700088457
+            },
+            {
+                "timestamp": 1769454709.0855114,
+                "detection_ms": 30.400620000364142,
+                "validation_ms": 0.05999799941491801,
+                "prediction_ms": 5.079762999230297,
+                "ui_ms": 26.81092000057106,
+                "latency_ms": 62.37148400032311
+            },
+            {
+                "timestamp": 1769454709.290093,
+                "detection_ms": 35.540879998734454,
+                "validation_ms": 0.05935000081080943,
+                "prediction_ms": 5.741389999457169,
+                "ui_ms": 25.187934001223766,
+                "latency_ms": 66.54907299889601
+            },
+            {
+                "timestamp": 1769454709.4868147,
+                "detection_ms": 39.187170999866794,
+                "validation_ms": 0.07957199886732269,
+                "prediction_ms": 5.1342249989829725,
+                "ui_ms": 35.35962699970696,
+                "latency_ms": 79.79313000032562
+            },
+            {
+                "timestamp": 1769454709.6856136,
+                "detection_ms": 31.112058999497094,
+                "validation_ms": 0.058572000853018835,
+                "prediction_ms": 5.025376000048709,
+                "ui_ms": 26.800067000294803,
+                "latency_ms": 63.02142700042168
+            },
+            {
+                "timestamp": 1769454709.8943822,
+                "detection_ms": 35.52552899964212,
+                "validation_ms": 0.05896099901292473,
+                "prediction_ms": 5.021042999942438,
+                "ui_ms": 24.999699999170844,
+                "latency_ms": 65.6425279994437
+            },
+            {
+                "timestamp": 1769454710.0909843,
+                "detection_ms": 39.06069500044396,
+                "validation_ms": 0.08014500053832307,
+                "prediction_ms": 5.1195220003137365,
+                "ui_ms": 35.27148299872351,
+                "latency_ms": 79.55728900014947
+            },
+            {
+                "timestamp": 1769454710.2897484,
+                "detection_ms": 30.766145999223227,
+                "validation_ms": 0.061572998674819246,
+                "prediction_ms": 5.104873000163934,
+                "ui_ms": 26.816253001015866,
+                "latency_ms": 62.76765900111059
+            },
+            {
+                "timestamp": 1769454710.5008683,
+                "detection_ms": 39.8336329999438,
+                "validation_ms": 0.05981299909763038,
+                "prediction_ms": 10.292412000126205,
+                "ui_ms": 24.93498100011493,
+                "latency_ms": 75.1461339987145
+            },
+            {
+                "timestamp": 1769454710.6999595,
+                "detection_ms": 56.00246799986053,
+                "validation_ms": 0.09134900028584525,
+                "prediction_ms": 5.97282700073265,
+                "ui_ms": 35.86703800101532,
+                "latency_ms": 97.96673799974087
+            },
+            {
+                "timestamp": 1769454710.8937826,
+                "detection_ms": 30.390175999855273,
+                "validation_ms": 0.0947560001804959,
+                "prediction_ms": 7.207509999716422,
+                "ui_ms": 26.610057000652887,
+                "latency_ms": 64.32862799920258
+            },
+            {
+                "timestamp": 1769454711.0985155,
+                "detection_ms": 36.871304000669625,
+                "validation_ms": 0.06012699850543868,
+                "prediction_ms": 5.184759998883237,
+                "ui_ms": 25.183250998452422,
+                "latency_ms": 67.33786800032249
+            },
+            {
+                "timestamp": 1769454711.2989624,
+                "detection_ms": 39.650789000006625,
+                "validation_ms": 0.07940499926917255,
+                "prediction_ms": 5.10917000065092,
+                "ui_ms": 35.898112999348086,
+                "latency_ms": 80.76375400014513
+            },
+            {
+                "timestamp": 1769454711.4979808,
+                "detection_ms": 31.315240999902016,
+                "validation_ms": 0.06170200140331872,
+                "prediction_ms": 9.918368001308409,
+                "ui_ms": 27.008414999727393,
+                "latency_ms": 68.32465099978435
+            },
+            {
+                "timestamp": 1769454711.7024994,
+                "detection_ms": 36.50861200003419,
+                "validation_ms": 0.05918300121265929,
+                "prediction_ms": 11.122423000415438,
+                "ui_ms": 25.524628999846755,
+                "latency_ms": 73.24188299935486
+            },
+            {
+                "timestamp": 1769454711.8992493,
+                "detection_ms": 41.12685299878649,
+                "validation_ms": 0.084534000052372,
+                "prediction_ms": 9.8233339995204,
+                "ui_ms": 35.913241999878665,
+                "latency_ms": 86.98914699925808
+            },
+            {
+                "timestamp": 1769454712.1019425,
+                "detection_ms": 30.693983000674052,
+                "validation_ms": 0.05914599933021236,
+                "prediction_ms": 10.413668000182952,
+                "ui_ms": 27.03886000017519,
+                "latency_ms": 68.24139600030321
+            },
+            {
+                "timestamp": 1769454712.306506,
+                "detection_ms": 36.34482099914749,
+                "validation_ms": 0.0586280002607964,
+                "prediction_ms": 11.33828700039885,
+                "ui_ms": 25.81275099873892,
+                "latency_ms": 73.57381899964821
+            },
+            {
+                "timestamp": 1769454712.5031664,
+                "detection_ms": 40.17344000021694,
+                "validation_ms": 0.08386799891013652,
+                "prediction_ms": 6.927871001607855,
+                "ui_ms": 35.75504400032514,
+                "latency_ms": 82.98055600062071
+            },
+            {
+                "timestamp": 1769454712.7061157,
+                "detection_ms": 30.79622100085544,
+                "validation_ms": 0.05903499913983978,
+                "prediction_ms": 5.54063799972937,
+                "ui_ms": 26.878308999584988,
+                "latency_ms": 63.29986899982032
+            },
+            {
+                "timestamp": 1769454712.9104784,
+                "detection_ms": 36.83299200019974,
+                "validation_ms": 0.09414499982085545,
+                "prediction_ms": 11.186476000148105,
+                "ui_ms": 25.22880700053065,
+                "latency_ms": 73.36975200087181
+            },
+            {
+                "timestamp": 1769454713.1072342,
+                "detection_ms": 39.66269900047337,
+                "validation_ms": 0.08175699986168183,
+                "prediction_ms": 15.447377998498268,
+                "ui_ms": 35.73054600019532,
+                "latency_ms": 90.96887899977446
+            },
+            {
+                "timestamp": 1769454713.3060222,
+                "detection_ms": 30.497435000143014,
+                "validation_ms": 0.05822099956276361,
+                "prediction_ms": 13.579197000581189,
+                "ui_ms": 26.910919999863836,
+                "latency_ms": 71.06290199953946
+            },
+            {
+                "timestamp": 1769454713.5145826,
+                "detection_ms": 35.96176100109005,
+                "validation_ms": 0.05738700019719545,
+                "prediction_ms": 5.050525000115158,
+                "ui_ms": 25.13210699908086,
+                "latency_ms": 66.22042599883571
+            },
+            {
+                "timestamp": 1769454713.7112405,
+                "detection_ms": 40.55885599882458,
+                "validation_ms": 0.08096100100374315,
+                "prediction_ms": 5.232907000390696,
+                "ui_ms": 35.565329000746715,
+                "latency_ms": 81.46921799925622
+            },
+            {
+                "timestamp": 1769454713.9101279,
+                "detection_ms": 30.7146510003804,
+                "validation_ms": 0.05936799971095752,
+                "prediction_ms": 5.031172999224509,
+                "ui_ms": 27.07561799979885,
+                "latency_ms": 62.90664299922355
+            },
+            {
+                "timestamp": 1769454714.1185987,
+                "detection_ms": 37.0493569989776,
+                "validation_ms": 0.059404999774415046,
+                "prediction_ms": 14.55703600004199,
+                "ui_ms": 25.42683899991971,
+                "latency_ms": 77.12815600098111
+            },
+            {
+                "timestamp": 1769454714.3153017,
+                "detection_ms": 40.63789199972234,
+                "validation_ms": 0.08255299871962052,
+                "prediction_ms": 14.59223900019424,
+                "ui_ms": 35.724862000279245,
+                "latency_ms": 91.06473099927825
+            },
+            {
+                "timestamp": 1769454714.5141473,
+                "detection_ms": 30.3198120000161,
+                "validation_ms": 0.05899800089537166,
+                "prediction_ms": 5.073431000710116,
+                "ui_ms": 26.975474000209942,
+                "latency_ms": 62.44551199961279
+            },
+            {
+                "timestamp": 1769454714.718793,
+                "detection_ms": 36.82212500098103,
+                "validation_ms": 0.061034999816911295,
+                "prediction_ms": 5.199815999731072,
+                "ui_ms": 25.012906999108964,
+                "latency_ms": 67.12391899964132
+            },
+            {
+                "timestamp": 1769454714.9193094,
+                "detection_ms": 41.05817399977241,
+                "validation_ms": 0.08486800106766168,
+                "prediction_ms": 5.1672429999598535,
+                "ui_ms": 35.503555000104825,
+                "latency_ms": 81.84554199942795
+            },
+            {
+                "timestamp": 1769454715.1181622,
+                "detection_ms": 30.738801000552485,
+                "validation_ms": 0.05857299947820138,
+                "prediction_ms": 4.998600999897462,
+                "ui_ms": 26.8914969983598,
+                "latency_ms": 62.71145100072317
+            },
+            {
+                "timestamp": 1769454715.322821,
+                "detection_ms": 35.64431099948706,
+                "validation_ms": 0.06031300108588766,
+                "prediction_ms": 4.949657999532064,
+                "ui_ms": 25.307583999165217,
+                "latency_ms": 65.99899499997264
+            },
+            {
+                "timestamp": 1769454715.519554,
+                "detection_ms": 40.520267000829335,
+                "validation_ms": 0.0846819984872127,
+                "prediction_ms": 5.223629999818513,
+                "ui_ms": 35.40943000007246,
+                "latency_ms": 81.26293500026804
+            },
+            {
+                "timestamp": 1769454715.7222488,
+                "detection_ms": 30.80564999982016,
+                "validation_ms": 0.05931300074735191,
+                "prediction_ms": 6.192209999426268,
+                "ui_ms": 26.93351400012034,
+                "latency_ms": 64.01090899998962
+            },
+            {
+                "timestamp": 1769454715.9268694,
+                "detection_ms": 36.85477300132334,
+                "validation_ms": 0.06407200089597609,
+                "prediction_ms": 7.0996819995343685,
+                "ui_ms": 25.177255000016885,
+                "latency_ms": 69.22157700137177
+            },
+            {
+                "timestamp": 1769454716.1235173,
+                "detection_ms": 40.10583799936285,
+                "validation_ms": 0.1111269993998576,
+                "prediction_ms": 7.039647000055993,
+                "ui_ms": 36.21144200042181,
+                "latency_ms": 83.50147800047125
+            },
+            {
+                "timestamp": 1769454716.326284,
+                "detection_ms": 30.825132000245503,
+                "validation_ms": 0.05820200021844357,
+                "prediction_ms": 12.599044001035509,
+                "ui_ms": 27.703489999112207,
+                "latency_ms": 71.2235340015468
+            },
+            {
+                "timestamp": 1769454716.5309408,
+                "detection_ms": 35.666738000145415,
+                "validation_ms": 0.057720000768313184,
+                "prediction_ms": 14.852472999336896,
+                "ui_ms": 25.218291999408393,
+                "latency_ms": 75.81507400027476
+            },
+            {
+                "timestamp": 1769454716.7275856,
+                "detection_ms": 40.65920900029596,
+                "validation_ms": 0.08240500028477982,
+                "prediction_ms": 13.872596999135567,
+                "ui_ms": 35.70882900021388,
+                "latency_ms": 90.35050100101216
+            },
+            {
+                "timestamp": 1769454716.9263773,
+                "detection_ms": 30.45853299954615,
+                "validation_ms": 0.059406000218586996,
+                "prediction_ms": 5.01282299956074,
+                "ui_ms": 26.85018400006811,
+                "latency_ms": 62.40583299950231
+            },
+            {
+                "timestamp": 1769454717.1351345,
+                "detection_ms": 35.58626000085496,
+                "validation_ms": 0.05835000047227368,
+                "prediction_ms": 4.994599999918137,
+                "ui_ms": 25.44700699945679,
+                "latency_ms": 66.11112499922456
+            },
+            {
+                "timestamp": 1769454717.3316162,
+                "detection_ms": 39.25129199888033,
+                "validation_ms": 0.0800340003479505,
+                "prediction_ms": 5.104541000036988,
+                "ui_ms": 36.168167998766876,
+                "latency_ms": 80.6478859994968
+            },
+            {
+                "timestamp": 1769454717.5304933,
+                "detection_ms": 31.320506999691133,
+                "validation_ms": 0.06077599937270861,
+                "prediction_ms": 5.155689001185237,
+                "ui_ms": 26.793298000484356,
+                "latency_ms": 63.350527998409234
+            },
+            {
+                "timestamp": 1769454717.7390003,
+                "detection_ms": 35.40859900022042,
+                "validation_ms": 0.06027599920344073,
+                "prediction_ms": 11.870402000567992,
+                "ui_ms": 25.12144300089858,
+                "latency_ms": 72.4793490007869
+            },
+            {
+                "timestamp": 1769454717.935698,
+                "detection_ms": 39.024910000080126,
+                "validation_ms": 0.07842400009394623,
+                "prediction_ms": 15.597560999594862,
+                "ui_ms": 36.57406300044386,
+                "latency_ms": 91.30527100023755
+            },
+            {
+                "timestamp": 1769454718.1345036,
+                "detection_ms": 30.509977999827242,
+                "validation_ms": 0.0595539986534277,
+                "prediction_ms": 5.179335999855539,
+                "ui_ms": 27.763267999034724,
+                "latency_ms": 63.53643100010231
+            },
+            {
+                "timestamp": 1769454718.3391616,
+                "detection_ms": 36.878589999105316,
+                "validation_ms": 0.06122099875938147,
+                "prediction_ms": 6.939040000361274,
+                "ui_ms": 25.92525299951376,
+                "latency_ms": 69.84200900114956
+            },
+            {
+                "timestamp": 1769454718.5401309,
+                "detection_ms": 40.2845199987496,
+                "validation_ms": 0.08325700036948547,
+                "prediction_ms": 13.844357999914791,
+                "ui_ms": 35.69262900055037,
+                "latency_ms": 89.9334829991858
+            },
+            {
+                "timestamp": 1769454718.738586,
+                "detection_ms": 31.243213999914587,
+                "validation_ms": 0.05944299846305512,
+                "prediction_ms": 5.276220999803627,
+                "ui_ms": 26.96055299929867,
+                "latency_ms": 63.55785699997796
+            },
+            {
+                "timestamp": 1769454718.9432447,
+                "detection_ms": 35.76512600011483,
+                "validation_ms": 0.05847899956279434,
+                "prediction_ms": 16.086583000287646,
+                "ui_ms": 25.063650999072706,
+                "latency_ms": 76.99815399973886
+            },
+            {
+                "timestamp": 1769454719.1400716,
+                "detection_ms": 39.44469599991862,
+                "validation_ms": 0.07985000047483481,
+                "prediction_ms": 7.6154069993208395,
+                "ui_ms": 35.79686699958984,
+                "latency_ms": 82.96891099962522
+            },
+            {
+                "timestamp": 1769454719.342572,
+                "detection_ms": 30.734286998267635,
+                "validation_ms": 0.059239000620436855,
+                "prediction_ms": 12.90951699957077,
+                "ui_ms": 28.026743000737042,
+                "latency_ms": 71.76411700129393
+            },
+            {
+                "timestamp": 1769454719.5472722,
+                "detection_ms": 37.29761600152415,
+                "validation_ms": 0.057294999351142906,
+                "prediction_ms": 14.474208999672555,
+                "ui_ms": 25.626597000155016,
+                "latency_ms": 77.47375200051465
+            },
+            {
+                "timestamp": 1769454719.7439349,
+                "detection_ms": 39.827055001296685,
+                "validation_ms": 0.08005299969227053,
+                "prediction_ms": 14.45043100102339,
+                "ui_ms": 35.80818100090255,
+                "latency_ms": 90.19077499942796
+            },
+            {
+                "timestamp": 1769454719.9466746,
+                "detection_ms": 32.66683599940734,
+                "validation_ms": 0.06001699875923805,
+                "prediction_ms": 18.67994600070233,
+                "ui_ms": 27.101162000690238,
+                "latency_ms": 78.53383000110625
+            },
+            {
+                "timestamp": 1769454720.1512604,
+                "detection_ms": 36.90090800046164,
+                "validation_ms": 0.1063859999703709,
+                "prediction_ms": 10.912765999819385,
+                "ui_ms": 25.18355599931965,
+                "latency_ms": 73.13300299938419
+            },
+            {
+                "timestamp": 1769454720.358069,
+                "detection_ms": 54.32311599906825,
+                "validation_ms": 0.11456999891379382,
+                "prediction_ms": 8.23861000026227,
+                "ui_ms": 38.05340799954138,
+                "latency_ms": 100.78935000092315
+            },
+            {
+                "timestamp": 1769454720.5468028,
+                "detection_ms": 31.512208001004183,
+                "validation_ms": 0.05755399979534559,
+                "prediction_ms": 5.137634001584956,
+                "ui_ms": 28.167812999527087,
+                "latency_ms": 64.89570699886826
+            },
+            {
+                "timestamp": 1769454720.7553687,
+                "detection_ms": 36.67532199870038,
+                "validation_ms": 0.059126999985892326,
+                "prediction_ms": 5.275667001114925,
+                "ui_ms": 25.283441000283347,
+                "latency_ms": 67.31411300097534
+            },
+            {
+                "timestamp": 1769454720.9519665,
+                "detection_ms": 39.43738199996005,
+                "validation_ms": 0.08110899943858385,
+                "prediction_ms": 7.737235999229597,
+                "ui_ms": 35.77705600037007,
+                "latency_ms": 83.06443100082106
+            },
+            {
+                "timestamp": 1769454721.1508367,
+                "detection_ms": 31.52181999939785,
+                "validation_ms": 0.05920200055697933,
+                "prediction_ms": 4.982713000572403,
+                "ui_ms": 27.09397699982219,
+                "latency_ms": 63.68417399971804
+            },
+            {
+                "timestamp": 1769454721.3595254,
+                "detection_ms": 36.351666998598375,
+                "validation_ms": 0.0590170002396917,
+                "prediction_ms": 11.204035999980988,
+                "ui_ms": 25.587081001503975,
+                "latency_ms": 73.23718699990422
+            },
+            {
+                "timestamp": 1769454721.55607,
+                "detection_ms": 40.4250570009026,
+                "validation_ms": 0.08205300036934204,
+                "prediction_ms": 12.167913000666886,
+                "ui_ms": 36.14711800037185,
+                "latency_ms": 88.84888000102364
+            },
+            {
+                "timestamp": 1769454721.7548413,
+                "detection_ms": 30.389744000785868,
+                "validation_ms": 0.058387000535731204,
+                "prediction_ms": 5.115338000905467,
+                "ui_ms": 27.12121700096759,
+                "latency_ms": 62.704075999135966
+            },
+            {
+                "timestamp": 1769454721.9596405,
+                "detection_ms": 35.74985199884395,
+                "validation_ms": 0.0587759986956371,
+                "prediction_ms": 12.388885999826016,
+                "ui_ms": 25.2178519986046,
+                "latency_ms": 73.44053400083794
+            },
+            {
+                "timestamp": 1769454722.160611,
+                "detection_ms": 39.25454000091122,
+                "validation_ms": 0.08009000157471746,
+                "prediction_ms": 5.253223000181606,
+                "ui_ms": 40.00066400112701,
+                "latency_ms": 84.62088699889136
+            }
+        ]
+    }
+}

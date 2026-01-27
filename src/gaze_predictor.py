@@ -1,6 +1,11 @@
 import torch
 import joblib
 import numpy as np
+
+# Patch loading on main module too
+import torch
+import joblib
+import numpy as np
 from gaze_classifier import GazeClassifier
 
 class GazePredictor:
