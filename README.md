@@ -1,5 +1,4 @@
 # Eye tracking demo app - RPi version 
-# Raspberry Pi 4B Setup Instructions
 
 This branch is optimized for running on Raspberry Pi 4B (ARM64).
 
