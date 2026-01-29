@@ -5,6 +5,10 @@ This is a project demonstrating the performance of face-landmark-only trained mo
 - The **laptop** branch is suited for systems without dedicated Nvidia GPU.
 - The app has been also proven to work on Raspberry Pi 4b, to test it make sure to follow the instructions placed in a README file on **rpi** branch.
 
+Demo conssits of 2 modes:
+- *Evaluation mode*: created for testing model's performance and accuracy;
+- *Gallery mode*: enables users to browse through photos placed in **Gallery** folder, feel free to add and browse your own photos.
+  
 ## Requirements 
 - Ubuntu 22.04 or newer
 - Web camera
