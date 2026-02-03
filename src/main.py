@@ -25,7 +25,6 @@ def load_gallery_images(width, height):
     gallery_dir = os.path.join(base_dir, "gallery")
     
     if os.path.exists(gallery_dir):
-        # Filter hidden files like ._2.jpg
         valid_extensions = ('.jpg', '.jpeg', '.png', '.bmp')
         file_list = sorted([f for f in os.listdir(gallery_dir) 
                           if f.lower().endswith(valid_extensions) and not f.startswith("._")])
