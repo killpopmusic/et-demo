@@ -5,11 +5,11 @@ This branch is optimized for running on Raspberry Pi 4B (ARM64).
 ## Requirements
 *   **Hardware:** Raspberry Pi 4B (4GB+ RAM recommended)
 *   **OS:** Raspberry Pi OS "Bookworm" (64-bit)
-*   **Python:** System Default Python 3.11 (Managed via Poetry)
+*   **Python:** System Default Python 3.11 
 *   Web camera
 
 ## 1. System Dependencies
-Install the necessary system libraries for OpenCV, Math, and Audio.
+Install the necessary system libraries:
 
 ```bash
 sudo apt-get update
@@ -76,5 +76,5 @@ poetry run python src/main.py
 ```
 
 ## Troubleshooting
-*   **Illegal Instruction:** Means `opencv-python` or `numpy` was installed via pip. Run `poetry run pip uninstall opencv-python opencv-contrib-python numpy` and re-do step 5.
-*   **MediaPipe Error:** If `mediapipe` fails to install, ensure you are using Python 3.11.
+*   **Illegal Instruction:**  `opencv-python` or `numpy` was installed via pip. Run `poetry run pip uninstall opencv-python opencv-contrib-python numpy` and re-do step 5.
+*   **MediaPipe Error:** if `mediapipe` fails to install, ensure you are using Python 3.11.
