@@ -12,9 +12,9 @@ url = "https://download.pytorch.org/whl/cpu"
 priority = "explicit"
 
 [tool.poetry.dependencies]
-python = ">=3.12,<3.14"
+python = ">=3.11,<3.14"
 opencv-python = ">=4.10.0.84"
-mediapipe = ">=0.10.20"
+mediapipe = "==0.10.20"
 screeninfo = "^0.8.1"
 scikit-learn = "^1.7.2"
 torch = {version = "==2.8.0", source = "pytorch_cpu"}
