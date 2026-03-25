@@ -7,6 +7,7 @@ This is a project demonstrating the performance of face-landmark-only trained mo
 
 Demo consits of 2 modes:
 - *Evaluation mode*: created for testing model's performance and accuracy;
+![Demo of the evaluation mode](assets/demo1.gif) 
 - *Gallery mode*: enables users to browse through photos placed in **Gallery** folder, feel free to add and browse your own photos.
   
 ## Requirements 
