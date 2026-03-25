@@ -35,3 +35,27 @@ To run the application:
 ```
 poetry run python3  src/main.py
 ```
+
+## Running with Docker
+
+You can also run this application in an isolated Docker container. This is primarily supported only on Linux systems
+**1. Build the Docker Image:**
+```bash
+docker build -t et-demo .
+```
+
+**2. Allow Local GUI Access:**
+In order for the OpenCV window inside the container to display on your local screen, allow Docker to connect to your X11 display server:
+```bash
+xhost +local:docker
+```
+
+**3. Run the Container:**
+```bash
+docker run -it --rm \
+  --device=/dev/video0:/dev/video0 \
+  -e DISPLAY=$DISPLAY \
+  -v /tmp/.X11-unix:/tmp/.X11-unix \
+  et-demo
+```
+
