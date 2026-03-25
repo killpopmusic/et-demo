@@ -4,7 +4,7 @@ This is a project demonstrating the performance of face-landmark-only trained mo
 Demo consits of 2 modes:
 - *Evaluation mode*: created for testing model's performance and accuracy;
 ![Demo of the evaluation mode](assets/demo1.gif) 
-- *Gallery mode*: enables users to browse through photos placed in **Gallery** folder, feel free to add and browse your own photos.
+- *Gallery mode*: enables users to browse through photos placed in **Gallery** folder;
 ![Demo of the gallery mode mode](assets/demo2.gif) 
 
  The repository has been set up to enable usage on different hardware.
@@ -38,7 +38,7 @@ docker run -it --rm \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
   et-demo
 ```
-*(Note: You might need to add `sudo` before `docker` depending on your user group settings).*
+
 
 ## Local Setup 
 The project uses poetry dependency managment, to install locally:
